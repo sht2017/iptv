@@ -7,7 +7,12 @@
 	"settings": {
 		"pylint.cwd": "${workspaceFolder}/src",
 		"terminal.integrated.env.windows": {
-			"PYTHONPATH": "${env:PYTHONPATH};${workspaceFolder}/src"
-		}
+			"PYTHONPATH": "${env:PYTHONPATH};${workspaceFolder}/src;${workspaceFolder}/test"
+		},
+		"python.testing.pytestArgs": [
+			"test"
+		],
+		"python.testing.unittestEnabled": false,
+		"python.testing.pytestEnabled": true
 	}
 }

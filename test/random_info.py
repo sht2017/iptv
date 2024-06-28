@@ -2,7 +2,7 @@
 import random
 import string
 
-from epg.authenticator import Authenticator, AuthMehod
+from epg.authenticator import Authenticator, AuthMethod
 from epg.credential import Credential
 
 BASIC_SET = (
@@ -79,9 +79,9 @@ def batch_credential(amount: int) -> list:
 
 
 def authenticator() -> dict[Authenticator, str]:
-    method = random.choice(list(AuthMehod))
+    method = random.choice(list(AuthMethod))
     _credential = credential()
-    if method == AuthMehod.SALTED_MD5:
+    if method == AuthMethod.SALTED_MD5:
         salt = f"{random.randint(0,99999999):08d}"
     else:
         salt = None
@@ -94,19 +94,20 @@ def batch_authenticator(amount: int) -> list[dict[Authenticator, str]]:
 
 
 def raw_authenticator() -> dict[str]:
-    method = random.choice(list(AuthMehod))
+    method = random.choice(list(AuthMethod))
     _credential = credential()
-    if method == AuthMehod.SALTED_MD5:
+    if method == AuthMethod.SALTED_MD5:
         salt = f"{random.randint(0,99999999):08d}"
     else:
         salt = None
     _authenticator = Authenticator(_credential, method, salt)
     return {
-        "credential": dict(credential()),
+        "credential": dict(_credential),
         "method": method.name,
         "salt": salt,
         "info": _authenticator.info,
     }
+
 
 def batch_raw_authenticator(amount: int) -> list[dict[Authenticator, str]]:
     return [raw_authenticator() for _ in range(amount)]

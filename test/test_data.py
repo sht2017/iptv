@@ -2,6 +2,7 @@
 import json
 import random
 
+from config import TEST_DATA
 from random_info import batch_raw_authenticator
 
 
@@ -13,5 +14,5 @@ def batch_generate():
 
 
 def test_data():
-    with open("test_data.json", "r", encoding="utf-8") as file:
+    with open(TEST_DATA, "r", encoding="utf-8") as file:
         assert file.read() == batch_generate()

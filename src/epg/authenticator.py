@@ -12,13 +12,13 @@ Example:
     credential = Credential(...)
     authenticator = Authenticator(
         credential = credential,
-        auth_method = AuthMehod.SALTED_MD5,
+        auth_method = AuthMethod.SALTED_MD5,
         salt = "01234567"
     )
     encrypted_info = authenticator.info
 
 Attributes:
-    AuthMehod (Enum): An enumeration of supported authentication methods.
+    AuthMethod (Enum): An enumeration of supported authentication methods.
     CipherUtils (class): Utility class for cipher-related operations.
     Authenticator (class): Handles authentication processes.
 
@@ -34,7 +34,7 @@ from epg import crypto
 from epg.credential import Credential
 
 
-class AuthMehod(Enum):
+class AuthMethod(Enum):
     """Enumeration for different authentication methods.
 
     This enumeration defines various methods that can be used for
@@ -130,7 +130,7 @@ class Authenticator:
     Attributes:
         _credential (Credential): The credential object containing user
             credentials.
-        auth_method (AuthMehod): The method to use for authentication.
+        auth_method (AuthMethod): The method to use for authentication.
         salt (str): The salt to use for SALTED_MD5 authentication, if
             applicable.
 
@@ -143,7 +143,7 @@ class Authenticator:
 
     # properties
     _credential: Credential
-    auth_method: AuthMehod
+    auth_method: AuthMethod
     salt: str
 
     # properties @getter/@setter
@@ -152,7 +152,7 @@ class Authenticator:
     def __init__(
         self,
         credential: Credential,
-        auth_method: AuthMehod = AuthMehod.PLAIN,
+        auth_method: AuthMethod = AuthMethod.PLAIN,
         salt: str | None = None,
     ):
         """Initializes the Authenticator with given credentials and method.
@@ -164,18 +164,18 @@ class Authenticator:
         Args:
             credential (Credential): The credential object containing user
                 credentials.
-            auth_method (AuthMehod, optional): The method to use for
-                authentication. Defaults to AuthMehod.PLAIN.
+            auth_method (AuthMethod, optional): The method to use for
+                authentication. Defaults to AuthMethod.PLAIN.
             salt (str, optional): The salt to use for SALTED_MD5
                 authentication. Required if auth_method is
-                AuthMehod.SALTED_MD5. Defaults to None.
+                AuthMethod.SALTED_MD5. Defaults to None.
 
         Raises:
             TypeError: If 'salt' is required for SALTED_MD5 but not provided.
         """
         self._credential = credential
         self.auth_method = auth_method
-        if auth_method == AuthMehod.SALTED_MD5:
+        if auth_method == AuthMethod.SALTED_MD5:
             if salt is not None:
                 self.salt = salt
             else:
@@ -212,11 +212,11 @@ class Authenticator:
         credential = self._credential
 
         match self.auth_method:
-            case AuthMehod.PLAIN:
+            case AuthMethod.PLAIN:
                 key = CipherUtils.pad(credential.password)
-            case AuthMehod.MD5:
+            case AuthMethod.MD5:
                 key = CipherUtils.md5(credential.password)
-            case AuthMehod.SALTED_MD5:
+            case AuthMethod.SALTED_MD5:
                 key = CipherUtils.salted_md5(credential.password, self.salt)
             case _:
                 raise ValueError("Invalid auth key")

@@ -13,7 +13,7 @@ Example:
 
         password = 'password'
         cipertext = 'encrypted_string_here'
-        decrypted_data = reverse(password, cipertext, AuthMehod.MD5)
+        decrypted_data = reverse(password, cipertext, AuthMethod.MD5)
 
     Testing salts using the EvaluateTools class:
 
@@ -26,17 +26,18 @@ Todo:
     None
 
 """
+
 from multiprocessing import Manager, Process
 
 from epg import crypto
-from epg.authenticator import Authenticator, AuthMehod, CipherUtils
+from epg.authenticator import Authenticator, AuthMethod, CipherUtils
 from epg.credential import Credential
 
 
 def reverse(
     password: str,
     cipertext: str,
-    auth_method: AuthMehod = AuthMehod.PLAIN,
+    auth_method: AuthMethod = AuthMethod.PLAIN,
     salt: str | None = None,
 ) -> Credential:
     """
@@ -48,8 +49,8 @@ def reverse(
         password (str): The password used for generating the key to decrypt the
             ciphertext.
         cipertext (str): The encrypted string that needs to be decrypted.
-        auth_method (AuthMehod, optional): The method of authentication to use
-            for decrypting the ciphertext. Defaults to AuthMehod.PLAIN.
+        auth_method (AuthMethod, optional): The method of authentication to use
+            for decrypting the ciphertext. Defaults to AuthMethod.PLAIN.
         salt (str | None, optional): An optional salt that is required if the
             authentication method is salted. Defaults to None.
 
@@ -61,14 +62,14 @@ def reverse(
     Returns:
         Credential: The Credential object generated from the decrypted data.
     """
-    if auth_method == AuthMehod.SALTED_MD5 and salt is None:
+    if auth_method == AuthMethod.SALTED_MD5 and salt is None:
         raise TypeError("missing required positional argument: 'salt'")
     match auth_method:
-        case AuthMehod.PLAIN:
+        case AuthMethod.PLAIN:
             key = CipherUtils.pad(password)
-        case AuthMehod.MD5:
+        case AuthMethod.MD5:
             key = CipherUtils.md5(password)
-        case AuthMehod.SALTED_MD5:
+        case AuthMethod.SALTED_MD5:
             key = CipherUtils.salted_md5(password, salt)
         case _:
             raise ValueError("Invalid auth method")
@@ -93,6 +94,7 @@ class EvaluateTools:
     The class does not return any objects but serves as a namespace to organize
     related cryptographic operations effectively.
     """
+
     _credential: Credential
     _cipertext: str
     _max_digitals: int
@@ -147,12 +149,12 @@ class EvaluateTools:
                 if (
                     Authenticator(
                         self._credential,
-                        AuthMehod.SALTED_MD5,
+                        AuthMethod.SALTED_MD5,
                         self._pad(location + start),
                     ).info
                     == self._cipertext
                 ):
-                    result.append(location + start)
+                    result.append(self._pad(location + start))
             except ValueError:
                 pass
 
@@ -185,13 +187,13 @@ class EvaluateTools:
         Returns:
             list: A list of salt values that successfully match the ciphertext.
         """
-        self._credential=credential
-        self._cipertext=cipertext
-        self._max_digitals=max_digitals
-        self._padding=padding
+        self._credential = credential
+        self._cipertext = cipertext
+        self._max_digitals = max_digitals
+        self._padding = padding
         total = 10**max_digitals
         divided_batch = total // processes
-        remaining=total%processes
+        remaining = total % processes
         with Manager() as manager:
             result = manager.list()
             tasks = [

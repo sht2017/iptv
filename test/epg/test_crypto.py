@@ -1,4 +1,4 @@
-# pylint: disable=missing-module-docstring, missing-function-docstring, redefined-outer-name
+# pylint: disable=missing-module-docstring, missing-class-docstring, missing-function-docstring, redefined-outer-name
 
 import pytest
 
@@ -64,8 +64,6 @@ def test_invalid_key_length(test_data):
         "Key must be either 8 or 24 bytes for DES or 3DES encryption"
         in str(excinfo.value)
     )
-
-
 
 
 def test_encrypt_decrypt(test_data):
