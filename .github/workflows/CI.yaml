@@ -1,4 +1,4 @@
-name: Pytest -> Codecov
+name: Testing
 on: [push, pull_request]
 jobs:
   run:
