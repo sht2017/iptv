@@ -1,0 +1,1922 @@
+[
+    {
+        "credential": {
+            "token": "<N[jFg4:4^P%4\\-9hdK7.K%nYGYC~<",
+            "user_id": "vhec{q>lVn",
+            "password": "}XU[]GhzW.S~G",
+            "ip": "79.23.88.86",
+            "mac": "61:73:06:77:8d:9d",
+            "product_id": "\")mum_P_mWQ^xl:`Lu7F^xFQmaM{?s,",
+            "ctc": "Sx",
+            "hash": "17697514"
+        },
+        "method": "SALTED_MD5",
+        "salt": "22611816",
+        "info": "67cdcb2bfe1799eb7973e75c6e24cdca441e927e84b1f337281e20a704814492cc2cff5f4cfab745da2181664234e821b8e42ee0b1aa49cab2137449dae6c43f788fd0e2d1fa33633623db9cbd305106e758250c93ff06d224f8cc03e6d66a5dcf285684ba81663800e58b7a7e760fe9d43a21ab76cdf02fbe3b6372253928654855aa34b045f22b"
+    },
+    {
+        "credential": {
+            "token": "B>9n}sBjaph<<u+Qkft7fPP{S!iwLEW*]>rS}N.\\4~ch/<jas_",
+            "user_id": "t:uCLG)t_{[*46/z9",
+            "password": "To\\ae6r,7U[",
+            "ip": "118.208.81.137",
+            "mac": "d9:8d:bc:3e:3b:1b",
+            "product_id": "XqeIdX`y3f",
+            "ctc": "+HfH{q",
+            "hash": "73051820"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "376d053f2bd9a2a13d68c4c977c8aaa1d7756a5cff94d842538e06c5991c583821189300fc7084b8a3e6c37d48b3bb5fe629b3cf4b762ad19894455b1d302b1733b2edd07e0e3c4a78cdd07f3d0a63ac829f1f687b1e752bef316f0a6b31b03cf20900d390a16dc4374440dda6a9e96d978ee5b01d4525055652d1306db439b24037f2e33b119560a8f86a07ec8374e5f9357df0e1a6e7e653a345eabe623958e6d818a53fd43ca8baaf398b2e9c44d7f71786fa9aa1c2d85ff9dc15b8344f86b821a21e57137505"
+    },
+    {
+        "credential": {
+            "token": "YbVV{u`+FX~G'S8u?-VExCP[yrS-M3<D36_tQ(j@-9+tr?W3T:\"",
+            "user_id": "o&rg\"ZZo\\XH]mrRRP8*|x;baT^Qld]%~o",
+            "password": "fbBw+Dt@>F,7s?Kak@z~",
+            "ip": "181.153.29.152",
+            "mac": "f9:08:40:89:4a:db",
+            "product_id": "3Zh~rd_A2ET(,IcE]x+AeKc)1a9(v?#*<~r1DZt]!",
+            "ctc": "d",
+            "hash": "28666645"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "f8ad8c8af6e286667e4a0845814a9d842c972021bf4ba1c7a59f87d89f351600167331a6c5f8856f42827383a46efc8607fa78741457a194daf1ebc18107b263f6dc51843c358ada6c2a7e473f31d7d11210a2b3c43ea645015d57fe08aae2a7"
+    },
+    {
+        "credential": {
+            "token": "#C",
+            "user_id": "^FiU~17Vf^2&sTZKw{",
+            "password": "\"@nQ=J?Dc-n]xXn@h4",
+            "ip": "193.52.2.89",
+            "mac": "c3:e2:ab:1b:1a:e0",
+            "product_id": "fFkh2;ugG*Bxb^Q-mhAo'qN5o!H@l'|OEB7)L>rL",
+            "ctc": ")AU&p5",
+            "hash": "03212055"
+        },
+        "method": "SALTED_MD5",
+        "salt": "37712046",
+        "info": "78844796fe88eb762530d30811bedbfb899421a82e8ee7a5b041ef7508da6b54a2e849d3845be742418f5d67115e059cc0ee9c1258fb6e3f2cd4cc6803a8b4fc6aa60cae71f5771550654abef44a06d76832c7a5c252a2b7342e3bce6b3dea5af305a9c7526980f788d4697f963959e17ee78d479f5300d5f13bf50b214bb207395279bbf33a97e8bdaeee39af7ca8f088cafd14eeb439c25e7e4670ab1bccf9f8df99058a503499"
+    },
+    {
+        "credential": {
+            "token": "8CSln2JNlRC7U?Y]Xc^nliQCoacwg3DQS[g\"Fwa65j>WdY'Rt",
+            "user_id": "Qz{,(K}zp6.;z^E",
+            "password": "]|a;",
+            "ip": "244.90.176.133",
+            "mac": "85:86:cb:e2:2d:e2",
+            "product_id": "`2\\oGRLMOid|8?l",
+            "ctc": "@/&\\H",
+            "hash": "54537955"
+        },
+        "method": "SALTED_MD5",
+        "salt": "87831777",
+        "info": "7a21dd3dff31700cfd947e64016c3ce31968ed764fc26572c1fc4dd9352c1dbbad86c8fef7a849242d55a931cb9cdac56815bb4d5bbd06cd1cd8900320481006da169609db2bb568229da00890ba09fd0963a7fb6f3270983d909e867fd5117f97755a4b2cb6c099b3e2a01a9c3cbefd2517d119310d7131ccfb10fc94e21703f798a9307e81b7a4fae2756dd03fff05b3635cf31d997d02b641d115f1b67b08d262e996a32e5d43d89bd22af3547f3422132c052eae65daf996de65e9ac2868e097f708585f846c"
+    },
+    {
+        "credential": {
+            "token": "p6fi?]<8\\h1'G*zGKuQ[i/Z/d5%\\>sy3q+D.UrQaP|{]q|U55*N/*MD%^j/Bi`F{,QJD4iCQ#6EF2Ej_;Wn;l#G'nJ",
+            "user_id": "9#S+R&80%P1U",
+            "password": "BpYN",
+            "ip": "35.11.202.51",
+            "mac": "22:0f:a6:dd:95:32",
+            "product_id": "D,OcKEqGMZFe>q{4=|9BzyBHv%Oz-k&fO-w~2",
+            "ctc": "k;#",
+            "hash": "68216453"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "5fbe010572f7247d78d6aec4a131210b623a1c086ba1810afa653e987c8d9a0c23778e4b53debc9cee925ae70cf683cc680f8fbd405044e746ed511adfd43eaf97a371756054d762f2081c86744826bc659ac9c61ca27883b688cad4c1ee3ac5baa1a17d9f0066dd0bb5add7ac78b01e"
+    },
+    {
+        "credential": {
+            "token": "kC`x<9((DM_QEXne#G",
+            "user_id": "S?GE",
+            "password": "gfxvm`PPB9&?3\\,R",
+            "ip": "112.129.174.31",
+            "mac": "9a:74:a0:74:2b:f8",
+            "product_id": "E=RNSxNY&Nz3^':8?)D&OTKG>v43b+ae,,X*O]FgN",
+            "ctc": ".n@w:.!",
+            "hash": "15188716"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "f86a503d9f35575f534d14f5907dba1d1d2c915925d6dff3e3f5a14c71b3b54360cb94216fcead2fb28a91a28bf4477da8fe385d189424c840479ccaf3574ab94ed648fe4adbb00d3ebca406346e0c2210708dbac61955e412857f518e77734db3028c46828fbb12b74f2ddd370ed905898f89bba8e1bcb322a29ccc323dca4c9258e3b8d7146e04"
+    },
+    {
+        "credential": {
+            "token": "{u7lO?]>D2,<m)G[0az'o/.q-/9~avee#meM`x,]u",
+            "user_id": "?O\\`VeDi7s*l6hDl4[Pp<_WJ",
+            "password": "OcRRNb^",
+            "ip": "140.92.154.92",
+            "mac": "22:db:62:a7:81:00",
+            "product_id": "TV6'IQ",
+            "ctc": "d}PJ",
+            "hash": "11524323"
+        },
+        "method": "SALTED_MD5",
+        "salt": "58815500",
+        "info": "a3ab3dbc2a41ddc0867301b2c896985d41e7add6d0cf0ea6d677efa9dca05a0d31c898db26483ea6873d40e38ea93ac6546b69b07754fe15293712e62e2d68bc41abc1f797f09b7d0b6d5fea3ebeb913acf0defb5e67bc8faaf9ad3126d34daf0d6ba7d7ab7b95047a4267d42bc4a400fbd2387eafc12a870e436b4862d26580135e2df82380348f97f7e92748fe7eb0d3ea012b5ba529790c1e76bf3b05f3a1ade53062c439583a7222caa13fb8ae166e315817163b0974"
+    },
+    {
+        "credential": {
+            "token": "qnAND]THe?M7Hj<.-V&ACcqRM7#7l(Hu)eP})#7I[.WNxz/=:1]UQ8G[Z\\;Scwi8jF%wG3y9h7;T&)^'vBG1q;7*TW)=Y/gZ^O",
+            "user_id": "N<Brj1ydC//@fA+",
+            "password": "w~j]o`+C2^u5drM:j",
+            "ip": "91.102.210.151",
+            "mac": "09:b2:c8:03:fa:18",
+            "product_id": "`h;qMH?d@6c[FKuD!<]BV:c\"ykDf1z?q1h@^h\"c6v{E8nS,rg",
+            "ctc": "alOx_eq_t",
+            "hash": "18612862"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "44d15af42832ae8fd32f3937032336743eba53ecbda02d5457194d94cc86a4e4c14b1ce343ae45893274a59d708f802fc127eebe0ebbe2b7acd90a2887d56987fd25c931cd8a2dc61ccbf12ff25528ad442d2eef1eab9c3e87899e1773796fffde41827448d61c3e78d66a2ea7be91216bbe256ea952785007123e76fd236f67e81858a685e8aad95318209c4efec0546ed97d639c2364283e18b4adba58b6e1ac0c651f2f74c708e3dd116addb61bc4"
+    },
+    {
+        "credential": {
+            "token": "_a]cxQjtI5loPl>aC:[~o8f@cAAC\"IM>0~e1^\"rVjsp&)",
+            "user_id": "Qn4O[nd+5nY++{yt?=lKdGDA3;?qFm",
+            "password": "lqvmU0(R:;",
+            "ip": "134.244.146.105",
+            "mac": "f3:80:be:d0:d1:38",
+            "product_id": ")CrQHzmO.g'tLh/rgp(",
+            "ctc": "O?AQJE/~~B",
+            "hash": "95882421"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "b166d9af8f5bfa448a83c64670b2601980e4a32a80fd11695f7a1f6226b881560163b96d69e9e6627a8171d111748e218647ae697d8f1e5af3ee6a849b6a1f8630e005e0b395ba342cf9394671a8d5266ceca5c422fbfeedb4278b71f67aa40bbd151cef5ab0dc7b03ed6d2fade1fde346ac84e0d2da1922e348dbd0b406ff66decb44b94fcf73a859991b999273526be50927e97958e4c47b518b8db5072edc66bf98fc830ac63a886ff8e6ff790907bfbf81ee29d571b5194813e83249a04b54f2af80c3aa8369"
+    },
+    {
+        "credential": {
+            "token": "lG<gpf_<!\\`VzR:_F2/uh[{q-5Bc{MR%^RfwFZhcA)'Q_TCr\\1qGWl?eggb6!{eK;@Q:oHL#/",
+            "user_id": "GaoRI",
+            "password": "@6Tu?^KV",
+            "ip": "110.15.4.71",
+            "mac": "82:e5:96:f0:f8:46",
+            "product_id": "Ok%zo#]I3<7#bzj<Z0e72e<>~\"]RH1^EXJ?&0+[M7IKnvW?:mL",
+            "ctc": "RG>=d%TV:",
+            "hash": "14511144"
+        },
+        "method": "SALTED_MD5",
+        "salt": "10625824",
+        "info": "917b3e7dec26ca5a8f8152e578dc15c09a0834405bc3c4f6ae939890d9e2189eca80cb37c92a0d166b10fd761aaab22ca1f587583c1e4ce745a945563243859077bd2788a89f35b29045292b35fee4315ef7305dd85600a7b29b1a864a774ddb82fa5176f6ace2348dc8100fcf9007acf2c8024609b7c3c6605e1842c4f45344f350214ee3d2f7f3998fc43233e5a443a67a93b3d7184146"
+    },
+    {
+        "credential": {
+            "token": "mr'Id[dQD(KmK(AU[8e6zu\"*Pw4n/ld*X%TQ4sD1Eavp",
+            "user_id": "-,j`HKVJG@KR=89\\QRsG'<-G:ej\\fq",
+            "password": "_&F`i&TO@V*RR",
+            "ip": "47.237.139.205",
+            "mac": "98:8a:1f:f9:80:f3",
+            "product_id": "o7MElRp;H>2^xU}5%gnwHqa5COOCpnm!LqG",
+            "ctc": "0mXi3^L'",
+            "hash": "34220147"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "d67ebf9b0aadd912970732f2772e74c2efac429ea0def673ccb7bbc32fcd73a8a09b4a175eacd74223274b365ff545d8700cb9643e6b68011d517b5e7f01d623122fa424cb155395983fa334075ab9c42dde330a073ab0eaca5a3a963455a5bff1b1db3783dc9e156c499c70ff28b7bc88d8dfc6be2e9464ff983dfdd821a8f0014466088ac2b912"
+    },
+    {
+        "credential": {
+            "token": "b%\"o8{H/Xowcvm8Igq}1SHeg,Zd",
+            "user_id": ")`pQ-@82w/afuvia:_.aFGx_J`;3XFi\\|",
+            "password": "ZdQ`f+(bsHBAXLYZE!@V`d",
+            "ip": "84.174.185.91",
+            "mac": "ca:71:19:a9:78:56",
+            "product_id": "V`YE.F8.K&N])'\\r\"a-tl]`GH'MTF%x~b*]JWs6Z#5",
+            "ctc": "e}YW1",
+            "hash": "46562446"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "f0b3664895541e41e462e43932d3eda2afb4a2eb110922333681385858ddf72b30daf4b35776b086cae4c35e6e6fe65a5f325c4260471205a448ac9c7693803ff6acd7402d4f786e19f72741bde8af43b2449a53beecfc878ea48526a007a27edefb4812509259343b4d02627f03ffb655785b0368e0f916390da7a85e99521e3f1fdba3cb96a79112c857ca521dcde3164e903ee0af9899087f21614cea8af7a766bf8b84ab51e7b13d92ae24f3a039d86e0eb44dd0ab6b0fb6c5943c2fc2bc7f03e3a136f515044fb77d1d956465b08eb0722dfa688f9a"
+    },
+    {
+        "credential": {
+            "token": "[G\\ux@hQCZf'v1B\\7JXA1R=b:\\}c!M1NjTNIj|y+f_4:eKbc#d+2",
+            "user_id": "?/Nu=akKYe#vKcqKES!7&R|K4gZ5",
+            "password": "e%Xc|`z.Uh}mC&=c^_",
+            "ip": "207.210.30.74",
+            "mac": "77:ad:8f:95:83:1c",
+            "product_id": ".FT'PPR3",
+            "ctc": "uQ'Q@D'MS",
+            "hash": "15731936"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "559a9d2083a9478f35eeb399d59984774e45ba68099148b5fd87052dfae1e275b243e8e5410c7d77f4dddfa3bf714e6b99e93dcd2e9a3e4591719d476983d091b9fd3d1dd3bf25d5638f93f405c904b3c228e49b3e2bba4892c7810fc73ecef65e293f0497b138125c88d6ec8b55a2a9789b10ac7f297eab"
+    },
+    {
+        "credential": {
+            "token": "w4&g|6DvBvLvXL40.Mu?5lei8uf9GK?As^(vCpE;<<jMd)U*{]Z?-p~_wdv^f",
+            "user_id": "]zJxuV@Sce0'?ova;_c<``r;?",
+            "password": ":CJv",
+            "ip": "174.218.175.179",
+            "mac": "91:7f:78:9e:2e:f9",
+            "product_id": "PPIab~NUYjyH-7}qyF{0T@bji^=_wA&/.8tG&RvYZ~|b?9^",
+            "ctc": "a!j[F9",
+            "hash": "02466928"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "7f1c520faf24c284df3b4ea8bb560bde34a8e12f9a170a43c055936d4fc362fb3ddda443d0d15f80015ddc2fa446492993aa953ec9f1f8325b7b0c64c56a217e2d7fc59586c4abfa92ae48df90a2acb33331855c97f80c4236b62f0a431cd0959ac0d5718e0603b6754dc2f5d417020fbe7a430e4144fb6ad5975f3c1af00644a780fdfb798ee2f8731b6621e4386ac665444fd65c73a5b5ce8fae06ccd78484d45dd5865db309fe"
+    },
+    {
+        "credential": {
+            "token": "0wh%hxA?s9T(vP]t+LB+vK|kdJI|^N-8C'zIpl{/|R9",
+            "user_id": "^\\ZOAZH%!dx|%|I'Lr,^_\"r]OU'",
+            "password": "odHtxDQ6`@r`fLm,=%'",
+            "ip": "18.58.143.149",
+            "mac": "f0:e6:08:f6:24:6f",
+            "product_id": "pB{(.9<b5K;&4O\\DpexSD1fzzA1cLOBs%9cz454?g'.(`",
+            "ctc": "{0m56G[u",
+            "hash": "25255151"
+        },
+        "method": "SALTED_MD5",
+        "salt": "72725857",
+        "info": "4bb25f2b4c455a245d1aae008142bab3cc6c1bbc994d76996ac4d05464f05794506c3718040cf5d83f38dab1679711ad3c790544e9d3f39df5a642fa9e0e9f79e99acf81535f25dbca4a9d9ec0de0886e4502187e701deadd58b8a4e6a90216f936660335cf5b2581bd40ee11383014c237860ced60b450512006be51c76ee1e18c1781f688d96dc3547929e3ad989fbcffcddf3300de0dd1a8e3f46f8bff6a9b51017701f8e0ab8"
+    },
+    {
+        "credential": {
+            "token": ".WJ(",
+            "user_id": "w9FQ]QJ-19ul;GB\\~dUj\\s.@`!~l(w2N,XYHV",
+            "password": "0N7XBt",
+            "ip": "156.114.142.137",
+            "mac": "60:07:2f:a2:fc:15",
+            "product_id": "ViDNxAbi9\"~Dx{D{U@c",
+            "ctc": "l/-8z",
+            "hash": "36142377"
+        },
+        "method": "SALTED_MD5",
+        "salt": "64371162",
+        "info": "b657fb84f7b2dc9f9e9baf2c7bc666ac59468003f2044ac8a9d824909f9b8a91ac53e34dfc39e1189c2d605f955e179a1f47e376d1c3934619d0e669fedf7f1fb1d6271211c1306f1b2de9506a2150d93c1f4c95c02955acf8176c0b9c893f4d393d1351cb7526550b6922e3c73549421a19f7e1b078cba631e169919853a8e3c534bf5c05cecde19e0681276d9d3c27200e900a76e5019b7238630544d03f54"
+    },
+    {
+        "credential": {
+            "token": "[(=t3G~!D7yi\\OP2*d)ir[mw~}SW}=|}J%6a<k*y9xh'tnKNDO#<=tKICV&t-[K@XZB)_D/r!",
+            "user_id": "A0qjg*aC?Y~nZ,NJ]bc*>VR",
+            "password": "!x~6mmIv",
+            "ip": "210.144.111.160",
+            "mac": "bc:aa:4b:cd:49:26",
+            "product_id": "&Xm.~K..+K]4oBG}Hh(FSd\"*7M+=85%",
+            "ctc": "F>0~",
+            "hash": "20117593"
+        },
+        "method": "SALTED_MD5",
+        "salt": "08141087",
+        "info": "5e5ca003259cdd87a5d858c6ffb922418273bd674cbbfd568dc3a89bc4d981ec2cdc3eacfd50486904c80aff98818fd3fc852138442f65852ad87dc8abafd5a9c6d5fb7befda0872edb6094284c3e9fbc58ce8131cefb4831739b4621ff91962981ba1324a78b8145cb7b567aae65ee840251f1148ff3c135bf4130d41c94932009611ab528962d57055d4ad8f378125f5010b93e8333f9284783a95372a4f86b59979080d303d2ac661e06ea8d48950e239c725e974c7d13a8d3077ed100fee"
+    },
+    {
+        "credential": {
+            "token": "Ny;KRUY~2?.n]LASptufwzui`Aa?W",
+            "user_id": "oE8ushJW/D^9+|",
+            "password": ",y)c_AQJ<?|!-B,z1V`",
+            "ip": "48.128.13.78",
+            "mac": "5e:6d:8a:a7:a8:81",
+            "product_id": "yV.ubCO2u\\kl3,J3\"=Pyos>0l}L!!rHp{mXP",
+            "ctc": "PfbaY",
+            "hash": "55141731"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "4fbbdbda32ed26d161103929c603da5e802c2dafc6e8406cde19300d6d6674206e86a9402dd2c9683111417488571e2357bdef78d0d5d5e8919f0e7e653a4241c8908cded6e1043a7046929bd874f465"
+    },
+    {
+        "credential": {
+            "token": ",uJkheN{H[(/S",
+            "user_id": "&60b",
+            "password": "p0ZdCKB@aWAX3~hY",
+            "ip": "37.122.126.58",
+            "mac": "2c:33:97:9f:76:60",
+            "product_id": "Y3YL1lO",
+            "ctc": "(X",
+            "hash": "33141164"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "4a44e79210254f5e3b0e0bcd54f67455876553185d33edcb2538507a44897b0037959be1dfa84a9865e2b6c20809ab6e5af0d95f7ac643f50fedd65ddd74343a3d30738cdfb5d3539195ada41068966b102033fbbb9e7e9b427b4a2cca56552da242ae7d5896df92847296092fe03192187923c0abbee2c6ccef3f627838e9e6bed8a2abaaf2b78174c667024bfd1374"
+    },
+    {
+        "credential": {
+            "token": "cRpTqzF<pB6Z.r|Ji",
+            "user_id": "~=Y^uOY6t<BafvQ'S",
+            "password": "^IG[[xw%;'F5*(T2b<",
+            "ip": "9.185.55.249",
+            "mac": "19:27:aa:7b:c6:29",
+            "product_id": "G)5",
+            "ctc": "=/y1>s",
+            "hash": "16942213"
+        },
+        "method": "SALTED_MD5",
+        "salt": "19431293",
+        "info": "b8795427c90fca1cadc37cd9503e0068e488b147341dac04ad703f33080d6fd92d47a737915a24e5631595650a2754adff0e0e3eb64b98266b8b8dec73c325673b7b9222739b12303afacffbdcf304dfd3031cd120e333f41f4342ed3d2865bc6ae3d58c964393e71c4652aa8f57d59e2c0e29dcff1633f9ff1eadc9d7eb6a36"
+    },
+    {
+        "credential": {
+            "token": "x<Pt\"(ZP4?X;G\"{o3,<h\\wemF2CKH6&",
+            "user_id": "=sBacxv\\8GOQnDPr[Z<~X4]wh+CLai[w",
+            "password": "r.nA'0;YKD}",
+            "ip": "148.201.22.163",
+            "mac": "0f:4a:67:a0:25:55",
+            "product_id": "M{w>y`M3*4ud)!*xZtLE4|Ss",
+            "ctc": "gOdP",
+            "hash": "82837235"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "ffe495a239818d80faa24923c474a096dc788043f4689298413bf6e3b741b8a5e97e1a94f405e3102185228c39e5a54adaa9a9d50ef6ca91191f846c5728f61017aa2c2169a919271eda92697399a84515668422409b3fa0defbf8e9bb1b7431c8eaa516129065a851d218ebc29a1e51778c040d74c1d209dd46cb14af1a794eb3856b17683f02e1823b05bbfd8ce1edd298f1b74eb9ed6ded8c6244c27b0d295756c74fff2f8a0205afb3df988436868cc530b889b1cd5ab5a8ca7659bd5d32"
+    },
+    {
+        "credential": {
+            "token": "=.Q;~&[TC\\J}wtX6*UTf72bfRdCUkEo<O&hPy~k8LX3RkjROG0cZkSHphmxop(3_GE=bJty}MsOwFp&`}\\bL{ZJKX:x",
+            "user_id": "^)4C}=^9dSpt-xIb!",
+            "password": "30_IugqR",
+            "ip": "138.152.218.55",
+            "mac": "56:95:af:a7:1a:f2",
+            "product_id": "3yk30bq\"n1y",
+            "ctc": "wYm=x",
+            "hash": "75265358"
+        },
+        "method": "SALTED_MD5",
+        "salt": "01164478",
+        "info": "e39cb89c261d31b7faa6a8b3ea035963ed453af423d57d83c8c7fe9177fc628651afc67ed9dda5f38e02db6cdc40b93cfb21297d1bb62d163c838ac5893799c9a1abe39f4bb6563c6086ddc912f26543b51809523b5a1ed070656df74bb9b178f707402485729837591fc2f5a1e66658251a138f4f30fd07230bacfeea0e7f82c1a9b3b012e369aa70ca20f0c6082dcfc3d37d1f9ea11860"
+    },
+    {
+        "credential": {
+            "token": "WDZ;~LyN)dF1G\"okn\\J4hlFso0MiqVP;08+0R>|HlASi#J#lpG2SdHw(i&XiK7,\\{-eB#z,,VpiH63J_vrZCn",
+            "user_id": "?k8HbJHl3.[TyjnOU5vlt-%T@?3>\"!Q*,3",
+            "password": "2)T3ng;7",
+            "ip": "75.64.63.148",
+            "mac": "c7:e3:2d:67:1c:38",
+            "product_id": ";c+O9u8U#kP[(Z2Y=;]va}_",
+            "ctc": "tg",
+            "hash": "14455386"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "f64ae66e370c596cf059688deeb252d8321bd64591280157870c999eba6e4df75e4ccc9989057b0ccb165f7ae974dce24fda0e3266560e68c099e1de98edb9c324144cc5864c684dc38e224d7a4c8e74b88688f591f90332dc481c994446fd0dbe4213b774374dd78e30f244c561d2067abd291456743106452e33b5a861b9a9a6dbb9a9a09243d5ba8109f46a5a9bb403b64a0767383aea3a9bd330954c76c239dc4502ed923fbcfbfabaca4efca77e64829cce5f6969ff40b3cb7574d05044"
+    },
+    {
+        "credential": {
+            "token": "2\\iK<ZRzo0UmpB=Z,\"oe5?OVr0",
+            "user_id": "*o.",
+            "password": "D4xy{0<ne1J}_",
+            "ip": "176.75.149.78",
+            "mac": "de:93:6f:91:d3:75",
+            "product_id": "^?oXs(8y^)]FH[;&Fr>3ZJkk7s-V,C,y<&IA",
+            "ctc": "-9Z|!?+f@c",
+            "hash": "04318234"
+        },
+        "method": "SALTED_MD5",
+        "salt": "09091440",
+        "info": "d511f02411b9623b84c87217fdec10dca5ff1a2f06729b714c4e050009fbf3af8df1749a6e0fa263f05e5ad85b0cbbedd5fb8021459f4b8438762e42a942273b691622d791a80b563c64d596eda20214ed1c2bc3c3c7a64c555daae8c48467faea82f15334716c4b58ac5501c66fdadabb803da97d023bb71285c1593b50859343ad233678b5b5c94d6fdfd793ee630e5e2f605e61a0eacaebe119ad4c0cec9eb1692505fcffbb2f2374eafc8635681f"
+    },
+    {
+        "credential": {
+            "token": ")O&35KBwTJ?C@;<oR6bo;Xg8q/S_\"[]7Z&UUHzp(i",
+            "user_id": "^87-]uKo",
+            "password": "Wn<+Cc#-Xmf3ns",
+            "ip": "21.212.222.11",
+            "mac": "25:f3:fa:20:eb:71",
+            "product_id": "WgcoBVEQ;,a0<QnF\\]\\J%u)dbOZ_",
+            "ctc": "sGmW~I\\VP",
+            "hash": "38435101"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "d170134437463da08096e82ee36d3b9769dd1ac69cd67fd40510a6ee54ce6edd6f6c69b3fdbba0f05430dc6cafb99b361691dc54d90c42755aa7b417fd8f728687660580b7de5639989411f800a845e860621f2a4f4fddc563b03dce6b4980e02f5c8ac4b8537c3e2508903b0b7dd2d5bb15b17438584d2a0b0805e6a3aec93b580d72d8daa9e5d95b2ee078aceb981d7d166510ef66d351"
+    },
+    {
+        "credential": {
+            "token": "pQ1VIvpcJWT:;M.",
+            "user_id": "gdv+B|NJ9+VcJ(fiR)xT0WD9[\\K1%",
+            "password": "8bw&%ln27'X65|?",
+            "ip": "41.218.73.233",
+            "mac": "72:44:b3:7e:95:8c",
+            "product_id": "jqL5na]HKgm5`)q,U",
+            "ctc": "o;cN)d)<O>",
+            "hash": "44589271"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "807bdef300c36f0b6f3a298618591c7e3fe2daa443c92f597961bfe307ae5bb7534cd78d5a29af547c988beef3841679c4a10f812ffe1f574f9a6c82271295212962e5ce02c3853cd208c08a661836d4c7a443f2dbb1be2f263899ba6642e37b4b54bff3e1fdb4177b844b04cf4c4e5fa5705a3e7104fd2f4ee5691ae20e619b15771a88e5ae4f197058f0db00378feb919c4324ca4ee8c0"
+    },
+    {
+        "credential": {
+            "token": "mL8i!\\Hj2ScjJ9/-;71ufo]9+u14%'!a@mUzcZ{]x,WUS?Naz};1I-7ewMZ",
+            "user_id": "25*M(}}a!~m6G",
+            "password": "&2DXtxF54V6bO0x#6H52",
+            "ip": "92.117.181.125",
+            "mac": "03:bb:ed:d2:41:ab",
+            "product_id": "M(G,Y%s~7mLdoGbB_P;.v/R4RJ{:t{",
+            "ctc": "`^P~",
+            "hash": "24141034"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "2757a70f33ea4e233d0d766de7b2cad117315cb2a77c7734a93ec8b83349d051203515833ab44819f8da6c27834537e0b397f0be5e87d2bba572d26ec70d78aecae5c071b74057305610f3845eba2e4c18edcbedc9c9650715954cc27b9ba33e8827671d343a1eb0ce9a6a4e662c8cac0c3d6ce24c79d58e26694ddd1e92f04b06e08c22dc0ef7565dd0bade24b8d676a6906c76d602390bf0eaae47983a9de7ad4d636252d0bf1226ba19a95dc36b8e7f5c4cd6ed9ef0cb"
+    },
+    {
+        "credential": {
+            "token": "nmm3+xsl(X~4hBH7i=1/",
+            "user_id": "f~H[z##J8cK",
+            "password": "0Y85gBEZhXg=[EGPPJ<t#",
+            "ip": "92.48.195.119",
+            "mac": "40:45:12:bd:33:6c",
+            "product_id": "sR@",
+            "ctc": "3~TF5xd]4O",
+            "hash": "23140866"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "fc3a72e5c2b0840777e639fb67985e1aebee199be2a662068a67361c3754484fac447f1580213864dd2692cc8e38d26b159b69f985a72e3ac38776c5c31ed9fb3dfa8b64656154b54dff5c50c584b8fd4a5f3e71e6058b96cca93e3fad3f0beb9c44823d6e23de4b31dfeb68befb2b225a0e837aa11c1b23d2a2c248d20f429d47556458b8714539065ce8c14a387f81baf093db6aafa6a667b9e04d7589e4c3"
+    },
+    {
+        "credential": {
+            "token": "P`jqzD",
+            "user_id": "Elv35/~0W>'IM9gQ#n.L>5|/KlP}(@P",
+            "password": "/+.(wc6Zi;`Eu<9!\"",
+            "ip": "74.238.54.191",
+            "mac": "0b:06:b4:38:41:33",
+            "product_id": ";[I=X0\"i5dwIb:R}D`7&fYfU9g7oNtvKXh\"XM7yX=;",
+            "ctc": "|NmEeN@Qrj",
+            "hash": "30111334"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "657e5f7795a02ef85eead9422bd5db377087f7d90f964d3c7af6c14b7d86ea425d4339098e28f339e79cae5042aa94a9e89430d33009f361984f5bb1a32e844d77e10c517377a04a695d17652c461fd1fd4b9103ecf6166f027fc5d7d8e529ff3b78b275ab11bbebe1e6c1db3827d775703606a74a23da18917f1fe71d690e39b2d0f8a41bee208b86cedd73687c3f1d945307e4010f85d60f509c23e989775a7ee48b196424e2347438ebf7409ee06cdf81f4f5c9ba396e"
+    },
+    {
+        "credential": {
+            "token": "/yp:883D;T|U8jsar@4\\%My*p",
+            "user_id": "TVbnmHu",
+            "password": "%}\",P(!B.Bl",
+            "ip": "128.50.160.193",
+            "mac": "f8:ba:80:62:dd:57",
+            "product_id": "qsYYkLORA~n-CevqQ)%Y(g?,XNbv3\\mjZAsbHNyOn'Q92J\\h",
+            "ctc": "Jpe\"dl]F~",
+            "hash": "23575013"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "c67d358aecdd415762a1ca5992ff4940a573559254a02911979a1c19294321505a10de576264d9cbacfc8dc043b85ad43e0ac1556c7c4aacb928ef1c55e6966b4dd2e613e00370e0df24e8e1d32da1515c6b627762402a64f3864fd8e12030bd"
+    },
+    {
+        "credential": {
+            "token": "hhFpk?y1`ScAhc`bGVLyrKE!T_Aqz@Zeu\\X`:<@\"gIatkaFx9:#nR2r",
+            "user_id": "}pH!ndu1?}zv5Bnh^Qm2~q%;mt5=uS-c.;tQf",
+            "password": "QP+gWJr5|\\.21)*VTY`tv\\",
+            "ip": "244.74.228.153",
+            "mac": "ca:90:a3:c0:f1:ae",
+            "product_id": ",6qR&Z=bIhell63",
+            "ctc": "[",
+            "hash": "04514498"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "efbf97487daf1d3da4db6b47b4f53e83be51bb9823fdd9421c95385ddacfe9cf610aee667327eb55bb4dabb68c3a529816f392b3ecf549e6a4bf0c851229a827aec91fff32d82b4a8fc0fc71f989069898581de9bfdeada5ccbd3d26e93131ad"
+    },
+    {
+        "credential": {
+            "token": "QyL:+;PT\\MG/Jk,<Xw8dv]jVF36HtHba-NW_5\\`|ETerL*\\=FIZf:4|8T+4Lni>[u?/x%4vsT~^\">rtr;D-Vf4!Z(->aL",
+            "user_id": "n%8prQ<",
+            "password": "D2I*>oX%0E%",
+            "ip": "24.179.87.225",
+            "mac": "a6:53:85:b9:08:67",
+            "product_id": "Rb-\\YP",
+            "ctc": "rV0(i;",
+            "hash": "08556336"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "16c2cc0f33095d8a08523c30c8c277e17557281c433e8210f56dc703f4da460e466b4f3ad14ed0212f5399365a4992d77fe989b7dbbe798aadaf0b5777ecf49470d215fc5cda15e5759111074ad6575182bade73f8f48a5d43e35cd6d5c0123bd71e8e422ea4ce24810b782f850c97fea92fba548e86814c335807da83b1cee35ef540b6c47d5433376444f572e16d3bdf28dbc63538ec86b1d39638e918c71e82c4eba46e17c4ca"
+    },
+    {
+        "credential": {
+            "token": "1}&Y_M!c8FiRWAh*#iVK@9^{d(W0xlq7EtBI+",
+            "user_id": "]#@}6i/SFW3ry-OeZ",
+            "password": "brq9WLeHN%",
+            "ip": "106.53.236.115",
+            "mac": "11:aa:25:60:2a:33",
+            "product_id": "3JC~?**|`VtToV)(bXD;7uW9O",
+            "ctc": "2*Gn",
+            "hash": "25766834"
+        },
+        "method": "SALTED_MD5",
+        "salt": "22922160",
+        "info": "d79134b3c99de02196141cf8fb1064ce611e4ecce21d8056ca3d34b9ef490cca247c95ee1c5a195b583768062000fc22f83651be97d7342736811338acb976bed900ec225e0f81941ee1a341fd0235cee264a46c41d61aedcc7735ce8c1553604a5f0f3d15061b301cb298b0782fc4d945521617e97afd17a2ed677c8c6db0e8d9bc277bed67d12871bf53c5a7ca8c6cb575dac906882f4188c9bd6a4da58162d8035416e32a740fd1dcaaa4318f33d01f07d063736ba5ce872a536013a01d1c80214572ed358836"
+    },
+    {
+        "credential": {
+            "token": "1^pF9B1^f+pT.^eC3?4T/:OH(dNDO.R",
+            "user_id": "`WPnV!)UFd%rI4SHC>yHPq8|p\"}ZWH",
+            "password": "QP-)ljY'oS|S",
+            "ip": "120.53.245.52",
+            "mac": "d1:ff:59:02:e3:ae",
+            "product_id": ";0w\"=d!!qcu<x(`Y1",
+            "ctc": "p.{97o}kz!",
+            "hash": "37432651"
+        },
+        "method": "SALTED_MD5",
+        "salt": "66674577",
+        "info": "afa190ad775cfbf38aceef3f0b73adeef817b1f42696f1ebb11905cda25325ac0e4e816f249bc673f34c82671958ed051e69be059f27d1915a31faa9ce98adebbc00c86d56344a7bcca44c85f6a15d125793cb0d28884692347d1a21f5a657e94ea9ec7d1ee2ebc007b6d6f012aae37e018e42b637790115a81080fdfa563ec2d975047aa1a80a01c8f90b7ffa546aefb1a12d8d7845dcc90a2c2657fde87dc1"
+    },
+    {
+        "credential": {
+            "token": "+L",
+            "user_id": "-&&MYw}",
+            "password": "tB2-N{5:Ax3n)J`)SLJPWAQ",
+            "ip": "130.182.49.242",
+            "mac": "7e:76:2e:08:b4:ab",
+            "product_id": "&uv;0K|Ajq=Rd{##j[/?E4P~\\(xn>skNM",
+            "ctc": "sVUD8",
+            "hash": "90404363"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "492a406a90a30db58037d34bb06bdb60490e8b589974f351c92ee44b9b68a68a0b0a452bbe8ab5422f0489ca939d7660a5e09d32a38967d2b90d7d0aa79a0c1c48f242dea46efcc378433e8ffe67ddc6dfcfadb47cd2b95e4e28f788f07ad6064a14a595c5659414ce06535321b06921"
+    },
+    {
+        "credential": {
+            "token": "@Hnsh{-9o*]#U2<;&X",
+            "user_id": "1Md_^n'F|jo<+6Cu\"",
+            "password": "G)njD(g(bQ",
+            "ip": "172.100.177.31",
+            "mac": "3b:03:ff:47:4a:b5",
+            "product_id": "Wp?hx#?/Gi[QB8Km#J",
+            "ctc": "J)d",
+            "hash": "50559124"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "c7962bfb3908c506086b2346034ab231543b106c27b2f452c4f2b08b3a30f9d26b0c13d9c19de61f4ad4e85b49794ee188f93aba60f08f3a0dcb52cdcd9189ac0903def10d9c0ddec5070eefc6e568d2"
+    },
+    {
+        "credential": {
+            "token": "]c_<&.sk?wu>e&[bg6_}k]x\"Io~E%u,J]kUgHX9eiDZ*_+1Q#2#f*:f0&&i^24=5iCOrugE<",
+            "user_id": "nMwDTIb`bFTf1Wh[~-;m{gkWf)K;(x",
+            "password": "[09y5i\\SjAak",
+            "ip": "93.23.45.77",
+            "mac": "f2:9a:95:6d:e5:4c",
+            "product_id": "OL'RySNp\"&Vm4JXekcL_0}kV9.QkKXM)(^|L\"M",
+            "ctc": "/",
+            "hash": "68662551"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "7d4a1263c19dc7c3961520f0cee0ac2f3910fb7d2d59039a9e8ebe6f40a67b38cb984c89c212c57c2c5e5444bb03a5b83a0cb9408a358927bbaab7d845ff5e6ae229c9851708d2f00ce06efecec3d6ca72b5449020d68e77cdf9baa466211e0a448455d9e4f4b9124b01586025a5fde4d74fc14b7f044aa4af93a84fad617503ff738f1aad4fe2019e3338d70eebc083ba4613fd78001977"
+    },
+    {
+        "credential": {
+            "token": "q+2S#m;r{#D6\"\"BZWAj*;BK4}.9jDI=pnw#]aS(}(+%q",
+            "user_id": "K#UI@vTHKO",
+            "password": "5fb]veJZ;yz^HxO=|,u0d'=Y",
+            "ip": "235.69.63.145",
+            "mac": "33:06:11:75:44:4d",
+            "product_id": "R1Z4-ND(!z{x<_aN?F0j@cDr7U\"^e4t;'",
+            "ctc": "1_2x",
+            "hash": "94166685"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "d49766f946b36cd7ecfdf438fcdd489ad56cf1bf055ca33f7e31ec64d83510a22970f39612a102846ba7de7c092fef0005fee663a8c6b325c538af0e47fd91f3960663595f3b8c8707ee4b110889edf715238ba27fe2ec6a1f7e14ca20339af02341a8c29c2e380af6d8b46b677ce2fb5f0c17f62714438a1bef274961ca9d04641743c1ba9c49991125449d89dbb603bdc4848bfb2325192d9026395b0daab508418a824f98dc74"
+    },
+    {
+        "credential": {
+            "token": "[7Wt*A?j123mObxrzo]/y=e^E~8C9<McS-WHs_4d-VLB&XO=D^MN|\"++e~Oa~P<:RuJS8i7vQft(;JG\"u=]n",
+            "user_id": "{Lv5a<l%5MC`Lq>`6`1^w^#D!EIMt\\zp(_iw4JY",
+            "password": "Zk/5i.TSxrp%@;",
+            "ip": "13.131.17.213",
+            "mac": "bd:b2:fe:c9:3f:eb",
+            "product_id": ":+!taaqmQQdkW`@`,Pp%#Y,{H3}",
+            "ctc": "\\",
+            "hash": "14616175"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "90cad20246729e2599964deb2952304653000c014a25e8d868b04b2c5942f577c4eb087a15ebb21195cb3fe971c7f3ee289cbca74668e2e0dc8040f4b33f4f358df8baa583450e1e4bf7733bc6e6cd0793008933f989530a0c65ee763cf6ebebcd7d73447f963f930270f697cdce71e1a6dd70dc771d4fac32b6fd03a1767da6d2436aff834c8a5d2bb5ef3efeb021617b91a07aa578df0a65146597d65e33203073cafef4930e2c"
+    },
+    {
+        "credential": {
+            "token": "7^xc){Pw6qJ!v\\D&;-*x5bV:Crp3eJ_,Mu?b[",
+            "user_id": "9emh_Ebx9Z].\"O^[}Iw>YN=0/-.",
+            "password": "2KW=W)X",
+            "ip": "248.212.124.49",
+            "mac": "46:7a:b6:be:fd:30",
+            "product_id": "v>F~{b7[GlF",
+            "ctc": "<A)^e",
+            "hash": "15535365"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "ef1c113e23ec737749b5f340d213bf6261c350f7655958ced05c0e9341b7111110853d3f40503efeeefb1e4ac5114d53c5511cd05148a37f72ca2b6fd9b18cce2b1303f018d62bf332140de1a49a644c0739b8fc72704e1752e6afe4ce17e80f51e89c4d022b419bef19330bd47d8c8ca8b4910d1c9b7825f2cc64d2643b25282f7644ec971072b1f6c2c52c2284c451ac2f55e8ff39a664544f115b41fff063"
+    },
+    {
+        "credential": {
+            "token": "80vq%`1R@,(BwRm!\\V:!E+G3]G2%_F%HKxPW(",
+            "user_id": "Z!%uMHq4I%FvL",
+            "password": "em%s",
+            "ip": "173.8.89.70",
+            "mac": "9c:30:56:f6:94:6b",
+            "product_id": "4",
+            "ctc": "z~D4_8=~'",
+            "hash": "58844043"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "70c20cef94de884dc870d3d64721cd56acc5fac59dc556824c07ad49139a52dda69e512a2a6670736b8c3521b7857ec47be0a9839379794c9fe176a67e1a58c827cc8aa9699b1052ed92b882afd0187be705e9e84c1f57f70869b8b6b4f8e9f8b2c5cf3fd440984539f37cb14abfdc1ffdfeec6483805f7ac22682577728b3a394a889235f6e399477da34264bfc4ab1168cb33ef75bf1f0d229e868d77fda50b49a7abed9baee2a81b0fc61cc0d1654067f8b5ba523d5bceac19d6ae9d261687f904457f7c249f059ed5c590f0417f7"
+    },
+    {
+        "credential": {
+            "token": "@^Z\"USW)SU<;-{|qocS{bJ/Rb]]vTH;Q4Dh\"ExwZ)y|4=1qrz7E;2r|p`&bko]]8`T~ji]N6ddVlB8X=E?9%324",
+            "user_id": "k;tc#sd}Z<fvRJ.ww6Z!~0npe),Ag0X1(b=X:B",
+            "password": "5b/'EA3&Ozd]l#u",
+            "ip": "29.204.62.143",
+            "mac": "a4:14:e1:e0:f8:a0",
+            "product_id": "l-fC",
+            "ctc": "!Iw",
+            "hash": "11133024"
+        },
+        "method": "SALTED_MD5",
+        "salt": "46826041",
+        "info": "291b3ef9d69a9a4ef2c5b90696dd756ba90fbf7bafdd00cc73c24307fb1c40fe65b4b06072f582ff8676f6dd64769f76273ae08d61b97d386c4b982936064345aef2e188a453bccceeae48244c9053f64ceab3591fe8cf17fe85d6309955ac2378579d6625ac04b7aa94d32bb02bf0d2e88f799af9b0db141c0012671d1b00e1f9e1c22491878e15f03b8412a21bb1e8"
+    },
+    {
+        "credential": {
+            "token": "yx;P:,DX1+k\\lti",
+            "user_id": "O{3lILJ`Iqx^!s=*ibc\"C=g/b+KMr",
+            "password": "=UMk#_:*Gc,+gyHM^1",
+            "ip": "39.232.123.244",
+            "mac": "66:9e:b3:25:a1:35",
+            "product_id": "9y{5&l!gZBbG),}Z#",
+            "ctc": "JNZQN;n",
+            "hash": "44521756"
+        },
+        "method": "SALTED_MD5",
+        "salt": "15890117",
+        "info": "a4c6441a39ebf45659f4d39b3cb1faf3b2f88b33f020f5ad7838a4f93bb8252632f5c1d6279a40647dae61a1e410b3974f36473657ca1acadc6ffec865ea58173c5aebf122f2bf758e2141dcc7082be6c57f524445147e209982f0863368693c23e1a97ec84444a121f5edd08bac03c1f585d75e743a07c0df68a8f3aa3f3adc5831de35f0ec34eadb603ee20e38506502137f9110736badfb5aef3caf0d537b8bba1399793849d6960a28d0fa1436c7ae8d7d14d624e429"
+    },
+    {
+        "credential": {
+            "token": "bI==320-Xw=9?O.q=s/)o9_<>c/gAPTO~r=[+aC@|.%wf-s@Ppbl\"]3%",
+            "user_id": "O&v!0z)((/O.|",
+            "password": "dl{;bIdnk9\\W!O",
+            "ip": "59.61.129.15",
+            "mac": "72:82:26:ea:4a:92",
+            "product_id": "_93X>H%y7\"4lfu*'Bjz4C8qYjTMB",
+            "ctc": "{sPa",
+            "hash": "30630116"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "17f7a693dbecb8893ae7ed44a1708b2c088b0be20153ed7ac020ee61224d794a72ab15cc48e9d4f5fd73b6abe3035613142dd5d69c089988eebdf59bd36151c58bdef3241f037c13cd29750cc8b66ff73e831766dcdaeb696688416eb8f313cc38945a9ba8ffe42b"
+    },
+    {
+        "credential": {
+            "token": "x&~ugOY\\\"vP}&Q.J;x8u4Ug,/Ylr'D6g>KWzmTJwbWQp'3qM",
+            "user_id": "B4G5|<k5\"LQ`P*ExyAl{LRI*gXJ",
+            "password": ":`RgB]",
+            "ip": "85.142.194.179",
+            "mac": "20:70:11:e2:4f:f7",
+            "product_id": "tTlK*5J",
+            "ctc": "Nt|E/''q",
+            "hash": "10656415"
+        },
+        "method": "SALTED_MD5",
+        "salt": "43978579",
+        "info": "b55a0ab13b0e7ad584b5271fb5c86bc9deb803a5650ae5222dd2f72a0aeedd8313c4e8cc1774606fa044c8c72e98236281b22acc76bdaf6faf91f761ff6d413de94532d38e65741afc765aca7d08a2d1836ada2440dd8184016c585d62522254035a3a7831e5a882daf17a8277bc5094d3bb0a586f2b8c07007bba9e9b82ed6db94d7f12eed0cbe03b704e455265f2a524e642b9ce1592ef"
+    },
+    {
+        "credential": {
+            "token": "jIW0Zdxb~&<MWNp;C9D-^C)9JCAqyC;Nh[~%,9T)sef2[/5aaT32<]=r&|Vw;;B5j2c#Mw%*d&n-~%3m[gT8BH;zI>gWU",
+            "user_id": "LvN;kFb}3olX@t]E",
+            "password": "EUU_s~Zz<]\\'Zj<yg?/P",
+            "ip": "115.225.56.85",
+            "mac": "da:17:b6:c4:95:bd",
+            "product_id": "pN'}M%lG/#W~B\\5X5fd^k2",
+            "ctc": "\\3hqz",
+            "hash": "26358173"
+        },
+        "method": "SALTED_MD5",
+        "salt": "23976001",
+        "info": "3cb0ea43d71391eed9f0111de94d9a264fd8e91cd55e30a0b226f7513ad761eaaef65d2269577d4f9e4bbaa8419a8ae5f02658d21a8bdd3692fc74d55e6e25c5ec6727d8ebf482f265b3eba7cff35caeaff29e9fdd7416b6853fdaec54a02871e244904914d20556cf3de843e3d0cfa9dc0bf88e83b0870145740ce314775cf85b8a05565b2ae63bee57b9dc4432ef2fd51bd401a759e5b5e9dfbb5eb2d401c58c305a3878b9712d"
+    },
+    {
+        "credential": {
+            "token": "DZ6;a?@W",
+            "user_id": "6m",
+            "password": "k9i*p)T;f6E&-v3Qyn",
+            "ip": "190.103.145.123",
+            "mac": "15:38:c4:19:e2:0d",
+            "product_id": "h\\^c^]h89CoVSAr5_hyo",
+            "ctc": "h=4",
+            "hash": "20113400"
+        },
+        "method": "SALTED_MD5",
+        "salt": "33936244",
+        "info": "bb4866c110d7fa648a9347783cbf434c29e20109bb50ddb4857b79a45db15a96385c0909e07c63bef4ddc2129378358a04b3b8c1d04e5eed08d1ffc3dfdb86219676ff675a2b2479ae6c9d3be4838f159423f1632419cee2688462e1afb13ddb5c4c0e739926898060dcb92098d808a3a708da806d8191b4ef91cf506c18d8b4d44f740d9244f5a613f019c44d177f5a8cc0e35f59dfbc3d96f7e20d5eaf30832efed04fb8db5946e4f3af9551ecb43fa530d5f404aa4f1a369bfc45a17dea7a"
+    },
+    {
+        "credential": {
+            "token": "tuFZxh",
+            "user_id": "|@A{!!\\cI|MQ/",
+            "password": "FPIbnnhnk-_4<K7oua",
+            "ip": "185.141.149.45",
+            "mac": "5e:5e:40:b2:ff:b3",
+            "product_id": "Uqr7'px]}bjN#i97AU]~c#<va}\\]KD/@]xO",
+            "ctc": "r7]^=3IN-",
+            "hash": "74884928"
+        },
+        "method": "SALTED_MD5",
+        "salt": "03533593",
+        "info": "1014f07bdfc27953a2f7b2a6f3822bd7d5e3a6641690832065b622376ab4c56bfb70085eb9009c490c351612c5c26117cbb40adfd26859d8960f562da73e5d47a8c9509ace3fa02b2cce5ce96b436bdd2d352b44f62f9d47aea19edc06d491580dac4bcc746735c7e0761d918a9721017fd0057a16844d0862b7d9c83e93819ee1150c99231d42627c55ed0070c1d1eb8a480749875801333f80682c209cfe1d0b0acf1545a12ca9e52e761c736843a4"
+    },
+    {
+        "credential": {
+            "token": "si\"=b%O>_M3nhf&]<D=CegjDZ0q*:2S;5Gl^Xd<0",
+            "user_id": "f=P'/;pgzRFMstHZ_@HVkshD[)U",
+            "password": "4-<'Swg`OjFm=z",
+            "ip": "146.190.75.188",
+            "mac": "5f:1e:4d:e7:a6:51",
+            "product_id": "p1<;+",
+            "ctc": "~MtR{O",
+            "hash": "35272926"
+        },
+        "method": "SALTED_MD5",
+        "salt": "74944844",
+        "info": "1d0f9bee282aa66bad1c96fd063fd83955748a39080fadf25ab8e23d91f4b28a2ed43c5cf97f783d7635e9d0cba54c7230f41f254fbc7eddc7a0c107cc3c625cf25ddf9d06f2bda1"
+    },
+    {
+        "credential": {
+            "token": "{C3umz1<tY[n&,J^*~oJu%sh",
+            "user_id": "it]B}Y|=B*W3?(~Nl+o>s`hAjq82\\.=7",
+            "password": "nj*RvwhcZ+U=oRP{PZC!h*",
+            "ip": "231.120.123.144",
+            "mac": "ac:3c:3c:9b:e6:62",
+            "product_id": "!:p&uf",
+            "ctc": "sPg8y?",
+            "hash": "53441111"
+        },
+        "method": "SALTED_MD5",
+        "salt": "05416136",
+        "info": "d321c7ae642ac0690b6531fcfc4a983661fcf48cbc33c47e5d05223e88489eb8b7ed97ebaeb0dadb9abcc0096a4b4bdff4e122568503a27f041ba31640b8e28fa107f5dba056c318276a20ae7ee194bcf1203ea4aafc102b5200418fc995b26ea10290620312d9883a7f7c97ffff65d216aab2e384b5c23ca813e0ffe1c004da3860223c731e00af37e48191631e85e9a9e9ebe45a39c4fdc2fe16678e87745e0fec300ee53d5ef429c006e91657cb4fd3b7dad9176e95a93c894eb3ecd5567bcf4eb38f789ae537"
+    },
+    {
+        "credential": {
+            "token": "]l5|yD9EH<}x*lMsGYRE/#aV6T&b^7'^^w^Jjx",
+            "user_id": "iu4J%qvCv!QcED/;CX",
+            "password": "#~~bt@%d",
+            "ip": "71.29.98.107",
+            "mac": "7b:75:65:b8:b0:56",
+            "product_id": "{'N]{WPzT&'yje0[\"J(j~.mW~}!rLPR&raqLUC2&shE,4V!yD:",
+            "ctc": "j\"GzL",
+            "hash": "31647443"
+        },
+        "method": "SALTED_MD5",
+        "salt": "72113688",
+        "info": "9d23e9a01cd6a38d3557c334eeda62c1efd58a52b0da77267ec6b6532c53689b7a1b3385b8549241f929f812a3f2bb6d0213d7f3eed9556cc602eb08569f4000fb247d46128eb6cee0a395cd9bee1839eecbd5ab3143690877426c8d36a9063cb7d42d22f79b3c39b934f9d1d7a1f0fbd459647ef450b1b9f3a878fa749a55425fec14e7fb16b6fe9de97d74a32665f208dc08b7b7da9c8b197094ad67e6b4e6cad5d16e86f4f949"
+    },
+    {
+        "credential": {
+            "token": "2WcB+|l@UykC.~0a-h/.!AfG5bKIZI~Iw`R2#c-l\\lD:/x.:\"ru7\\<\"1sGIa9{eb-{W'6!b",
+            "user_id": ",ie",
+            "password": "`!]%^;Y>Q:",
+            "ip": "34.188.76.125",
+            "mac": "2f:d5:26:da:3d:0f",
+            "product_id": "Wy9%}7Vrqfdg9{Xhm#C",
+            "ctc": ")",
+            "hash": "85161506"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "58dd01c7b1c74f281cb143e2816ed28775448e77df23d5d39cb75983cf750c3fc4852b81c97916a8ae515a92b60b3d52e78da9d69792a2b6185ef6078d0f54d2d51757f8d9d550961118f2cbe789fd680f090768ee4ea0b594583826add1a23f0aa37659813245db33e7171e30658cec2833cf87041c7143b9e64f0521b961c067a7bed3bc87d47087f0821c841868a3cb2e1450055fc34d205dfb0016188666"
+    },
+    {
+        "credential": {
+            "token": "RuRc{D^g8f'qLn7HJw*\"C_Tk;bZh]hu,\\@_.=",
+            "user_id": "P:B|9&nl^'ct%#e18n!/gY;:4[",
+            "password": "DOjZ",
+            "ip": "26.49.101.234",
+            "mac": "e8:c0:35:f3:7c:66",
+            "product_id": "/Rn:CwK=)(G:<QU",
+            "ctc": "r",
+            "hash": "89618518"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "105100d842249b83c7a2ed7fc46e54161e928b15cde822bf8fad6399c805e75d2e84c0a311d7b40e12fa0973aaf007bf4b96bc3f0fe37f9cf36af8637f8bc2a2c227128cf544497401d571d384fd0131f2efc57d4c5398cbdb5e9fb5a15c0881828578260fdd293b770873356a532db94222cfb5bd6222607ceffe98d1c71c6ebfcb9c2d2f0cfadd3e111c1ac293905872f3c194c6e38d47"
+    },
+    {
+        "credential": {
+            "token": "]i22nRWwJ:.x-Od[E#}t^E0\\S3PqP9>mkBmJ-Q&rCR",
+            "user_id": "nC~2s<ee;~Q5jwrXE7:4P",
+            "password": "(@z%5BtmgSi'\"TQ5",
+            "ip": "141.22.117.82",
+            "mac": "80:a0:85:74:ca:08",
+            "product_id": "ZG|^|zwc3XRr16cO^{oI@@XmR#9:\"o5%Dv#x/6r4uvpUTY!7fD",
+            "ctc": "UJ1<Yec3S%",
+            "hash": "06504194"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "1f6d5806b50c1a060021714fbf169229b4c73e61f2ba3f5802224b6ffad68f5891cf7264fd1792f0bcaaa37e640d1c56d06c27ff91d7fc2b1cc025ca0b37d098c52b24bdf5cd09f5844a2202da36f68d9ad2746f2da0019235980ce820d46769945f8e89ec5a3631848624124412e619"
+    },
+    {
+        "credential": {
+            "token": "ST#-Y+Lre3cj.>Oc",
+            "user_id": "U",
+            "password": "uP3fUHgY'l]",
+            "ip": "4.115.250.9",
+            "mac": "0d:fb:12:ca:43:56",
+            "product_id": "Wy#m[8",
+            "ctc": "[",
+            "hash": "13867612"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "171e4f60f20211c37d1a3a3eb44fc63bf9a9e9151ca792d7f724fe5c52962290b4add9cf2db6c3f8ec70bc0cee602a426522926f364608db26cb6343ed76bea62fa753de304aaacbc41bce857cd3ffb9205f7ba9b6282ebef1f300aebd369b468b5a33bc0222b9feb17f908e20d6907136b102a7b1134c98509aacec415284e6b6f9a5ced26dcada74b92b715c653bb6f0e52ab7613f9b5599da520c4595b7b86e09598c860d48152521c1806e8c4a9c8e4268ec6c9f4dda449e38fc5325aabb11895a79917b723eae0b0d6b26c5b15c"
+    },
+    {
+        "credential": {
+            "token": "Y\"uzk+A.jh7f\\=:/~F<sz*~d:a|:RyIzy+eF5+jrJ",
+            "user_id": "iuYoYhn(6,,zT>&v,F@,Mo&#_@`::",
+            "password": "oU+h",
+            "ip": "106.101.247.0",
+            "mac": "4e:08:ff:2f:b7:48",
+            "product_id": "d]R+9USi",
+            "ctc": "=yCnm~",
+            "hash": "75396812"
+        },
+        "method": "SALTED_MD5",
+        "salt": "50933493",
+        "info": "f7ee2eb4a66e336258a3e8818b9fd3ad5728fcd88eb66daedbbc805061a5680b663a807a1d539a41fac609ac863c3d6bb16f27019ccf27ecd4d2c9ecc73dec87ef943267aff8724d3e8baa1ae187aa41cc6373811558a1e6509db97512066b5d7c500de3f90a60c4b3e1d7853eb4697a1eacee992bb3bfe9f8cb4e1e7549a1019cd98dfac0a41e3fff0ef3e3d4aa245d164c85f26e34053d2208121e2e617e9bb05bdd1382ea462f29db323b09cd1dcc9603eaa47fffed26e0d7a83a8e82a97be127f4862ceecf3593cb3fcbcd969a8d"
+    },
+    {
+        "credential": {
+            "token": "E7,KF8K&-sv4h.CpdL)mKYAST9>rePvwzRymCnJ4|;wQyH/]74:){9u\\?;^~S*W]dsm\\v.w\"\"8%<.1-[q,IHl+(:0@s,Z<",
+            "user_id": "w2EK6i/>-UYS2^|?[U,QnHv",
+            "password": "!a-iU@x:,ra6iMIb=3gP&^fg",
+            "ip": "200.71.122.88",
+            "mac": "06:84:72:da:7a:16",
+            "product_id": "|ysDD_9Y3e7CwECcaMoin_T<r",
+            "ctc": "w",
+            "hash": "50439295"
+        },
+        "method": "SALTED_MD5",
+        "salt": "27061460",
+        "info": "eb9e1e3fabebf927e910a925eb9f842f4521a00af885af4c0f69ea8604cdcf077f25a0179747421c7fb9e57952b0d3f6b55d4c90bcebc928187793e46cf59c807093214acf3accb13d9cab8d7a661e931562d92da6988c0892460b1f0e303bf810d22fe43d3884817f5641df5938aa6d46bf464db78a6655d598f236b46f3e732b8d4f4b18bd412bbb063932d42a2280"
+    },
+    {
+        "credential": {
+            "token": ";@aT_yN'NZ?1:f0AUZ>L",
+            "user_id": "<-@vvv:p.w*ih[V@.K[-.",
+            "password": "0dK;<-KT-{Hs.8D\")^:5",
+            "ip": "248.12.186.156",
+            "mac": "a8:4e:23:5c:ca:d0",
+            "product_id": "nK8CctrppUQ/@n+Lst_]y)il*{jL",
+            "ctc": "Lwh",
+            "hash": "84144444"
+        },
+        "method": "SALTED_MD5",
+        "salt": "72491512",
+        "info": "2cf075113b558f624f56c837abb3ee506925e01f1aa79c3dba983a5d5b12d36dc307a685b51e3bb2ecfa5cfe151f602a35319b68e1eaa980d1eee39f21a14f2f8865cfc0f721754de41d5764c4f483a4c20f1d31eae2e8dce163356f3e189e2ba708489ca2c38a05cdd2bef6b93e791e0f91be7206774e937e90f9653980ece917e97160613c99c759246b8429cbe81e7489bafa7b932b3a85cad582d7a8b09a135053a5ffe1ce7745b1dc54341fda67f5980f8a5c068351"
+    },
+    {
+        "credential": {
+            "token": "17b4=!]M^YRIVL-d^1%.R&)eO_^Z(d{e!Yp.y[,j(r",
+            "user_id": "?l3BF0PNa~\\z",
+            "password": "t60HN3}.9:\"\"f{",
+            "ip": "29.105.73.117",
+            "mac": "b4:0e:25:1e:f9:a8",
+            "product_id": "x@s_e;#D['M",
+            "ctc": "Qux",
+            "hash": "71615818"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "ad14757070b7138ada4a2f77ae601632afccf6361c8914633872d6da40c20843f7918ae6600d2ecdf42a74699c087fbc96a550dfc9c0517ccf2b08432ce21f1f4d2dd34748c2758847167b6d15de2fadc04cff7f9a86ef473ed052256e890f5b1349374efc6b316f3ea7dce6293531b50a4db1178a4acb0eaf2881a57ad6792c3a8f3e18db940c8f02dafcd1c3897988"
+    },
+    {
+        "credential": {
+            "token": "t-hH~3(So)yWg\"EM\\?61plR'm8}}i?&\\_[Mn\\EuK\"G[",
+            "user_id": "?#.t'a>tnK",
+            "password": "R[:D\"iMsV1",
+            "ip": "241.167.103.251",
+            "mac": "ba:d3:f6:4c:c2:52",
+            "product_id": "-@.-EAGyvpRX*Bnp^zvFCiJrjw;>Kf",
+            "ctc": "`I",
+            "hash": "27524324"
+        },
+        "method": "SALTED_MD5",
+        "salt": "48201285",
+        "info": "eebd47ad5c9a4d93cfe77d984b567c08f140b9f58c0aef69d6677807d00a154a5ae9f753bdbd26daa4f597f477fee7cb5557d8e154627bbc8bfdb5554ef3b184dae4e29e19ee1858b37c327eab3a4889056985313938e8a30ec9606a3b8fc4b4d97d4b979593b560f777b506574da0d6eded53700cd6a68506be3167eaa69067"
+    },
+    {
+        "credential": {
+            "token": "r+#r8wCfp:>SwV&3dKwNsUNG}.5<1<6pR/y=|/tc5zm6ZqRCKOq3a.(D6+4{/3xDL~jg!|@,UQ(ge0K'@YnmQ@:^L",
+            "user_id": "V;O)sf;*cp=>miQ#k%",
+            "password": "\"L4VR7[U~8UpV9~Oe{4Ifi",
+            "ip": "195.204.96.97",
+            "mac": "c9:45:53:16:0e:19",
+            "product_id": "Md71%B",
+            "ctc": "v)/",
+            "hash": "10506012"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "8d6245d4c76ab0b6f4823aabffaf026e763d3436876669bb87d5aff650e38e8c430c1fb78451f8a934ae43af08afad47df2c700d13a7eae6379658cc0a8edd6929e97be02e4d097d8684da1410abe22fd62718b8a2d0ed40bd262bd567cf8844fb1236bab04705aad2d196a2c06b1100205698ceda789ccfae2b7460a3408292f9aa8d15c5fbb8a41f741a27835eadb803feb37262c141f8"
+    },
+    {
+        "credential": {
+            "token": "d=>C(sNUBS^/:.AJt",
+            "user_id": "^m(2",
+            "password": "d^fX",
+            "ip": "150.243.134.228",
+            "mac": "82:6a:e1:b8:da:b2",
+            "product_id": "v?JE`qKur[y9Es*jZ[32_xeL",
+            "ctc": "QUO'jT",
+            "hash": "24490148"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "2c751d272e0fe9a31dc05d28e6d99431c03bb812a1e52e62692bf1c6cd86c264103c1a913121db2f04b290f2c360c9f98d18434eb4f1c3c9675a9f7f7909af773ff42dc02ba32579f3a20a19a305207f2a1781cc1376e43eb64818f2f0be39170eab7fc87ca60ec5bb41297ca0c77762abdef86c6cf573d5586dccb1adcb2db6646112e4814eff70c96d81695744f4d742ef517bf06817ac35b64c4a913a470daedb28bc56a852ddc81a8591161fdb1dd95dd72db190a2a7b83be1b281488c42"
+    },
+    {
+        "credential": {
+            "token": "\"GZc3hG||nm9P4F.I<myf8Ja~Mva=58m!WeLM)v[?J.]:-yV*]9#IA;U_kvt+&8C\"g0,S#KCy&\\EK`q<`I43vJ`J\\|l{jKJ4}F",
+            "user_id": ">F*Q<:",
+            "password": "8Sc%PZjxQ9L7.eh79",
+            "ip": "146.142.35.248",
+            "mac": "04:ab:33:e0:3c:2d",
+            "product_id": "V+9W]8p;)[&cy6%vQ,K~v87[)?I",
+            "ctc": "Eua9?bu|",
+            "hash": "40191355"
+        },
+        "method": "SALTED_MD5",
+        "salt": "89894415",
+        "info": "32cda3490404b22b6d46c9661bf3eb8da7c1150a5e147ef4481ca2ea41e7b8b36b7d6a27558ddda873c1617c64d74299e750d4b7d3b9df15ce923202c8ee5e09dd1341755aa7ee573f81df3b840e6959e28de35ff89734e1578c5934ca9a150e67f9db087ababcb62cf7f743bac2fe5e5b31567c84eddc436e59ec0db3b24042361e32279146864bb2bdd01be8079ef0b81689b03b72f8d9"
+    },
+    {
+        "credential": {
+            "token": "^^jvUok;[vB.LpGm.\"h5Q.wC\\/7\\fN.L2;/",
+            "user_id": "(5bhH&uJGl[M'n)W7gXtqzDY+zv{;R=.`Of6gLg2",
+            "password": "h,E`QyO&o|EY4Q",
+            "ip": "188.186.88.60",
+            "mac": "81:37:83:3d:78:29",
+            "product_id": "g4amoS_\\BV6{(wJ<D)dfGPltKI_Gt+u`j'",
+            "ctc": "juW.vS0;U:",
+            "hash": "16359317"
+        },
+        "method": "SALTED_MD5",
+        "salt": "38607244",
+        "info": "ee643b2da015fbdc1ee34d43ff56ee955114e9edb7a8d84b06408f53f461c80c755f00cedc544dc4d04194947071dbf99c60445636d974fad67cab76ea8d2cad3b0a955f76aeb8ee6070eed6996948abb8c48d4b464231119ede68dc5e9c01e002bb83b3024cd2317e25c5a3760201a35f8b4822cdf97875400c2cb719f0e94ee1ef03770509b99fc4a42c192a4c916b"
+    },
+    {
+        "credential": {
+            "token": "rxu_{ZLsz4e%'\"D4X*N|%1ZXW:G[Ii<Dut#~@|,w;WpYL`q\\KO0g?M`d^,hM",
+            "user_id": ">ak~D'Jz4ERP(720'X_>",
+            "password": "vDpm}DdPM",
+            "ip": "51.13.19.5",
+            "mac": "d4:4c:3c:fa:ce:11",
+            "product_id": "Vt\\v0!X",
+            "ctc": "2jL8:B'0",
+            "hash": "62655019"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "0f8811aadd897a4078dff298e8ffa564b1e17aa4dbc1239cdaafcbd435f0d5353541a466b9d4a49f1e7cc011ea44445ad290c494c0f394fb7cbacd1240348793665a730051255d10bdfe56b3ac6654d4f358f0b1cc302ef296c64ff840a69d166283c2db00b369ed0675704530f6ba4fa9578fdc337b1b95"
+    },
+    {
+        "credential": {
+            "token": "Ut[`_@PWF1[kqR%{v4W`AdKcH9/dip4#o>vcJvxFx]\"35;o]",
+            "user_id": "KrBX\"QXG&",
+            "password": ";#_i~J<QWVQ^>",
+            "ip": "44.33.200.232",
+            "mac": "d7:fb:40:9a:28:f6",
+            "product_id": "1Op-4pT<id8&=W)OG]#fEqT-L/ERHo?-f",
+            "ctc": ":ti3LVxCl",
+            "hash": "59331225"
+        },
+        "method": "SALTED_MD5",
+        "salt": "51533890",
+        "info": "24e75f73108ae9a19b6491c223294e3118570610e93ccf1cfc35bfd8771718c29ca5ac7aa615e73e7929f1741547072761697089fe12cb92bc50f22068c5c9e05d795a8ccb7a7d8eaf5bf5ec23df33d0a7b2537c4bced32dc99a5d398aa76471b5217acc2015ed49aeca3ed153b543b6360d310bf337a46a7b7b5a4896239eb019c11bfe3c9ca06ffd8462edffc96900"
+    },
+    {
+        "credential": {
+            "token": "??[~iR@;@V[.,o)V8s,8M9p]io8prc;9L2kl+4N,O=6c4YQ{SoO}&riNB.nq88>1c}JUuDJ=`v3fGTH~m@",
+            "user_id": "x=G%!dVd:AO)3Zm\"Kq[7f8Kk8Z>=KBB.P~h>&D\"B",
+            "password": "RX^imH?%%",
+            "ip": "210.59.10.254",
+            "mac": "eb:88:0a:a2:f6:55",
+            "product_id": "u7D%#0F?,>KftlR,rQ3N/V|E\"TjO<X",
+            "ctc": "e.qa{",
+            "hash": "81332163"
+        },
+        "method": "SALTED_MD5",
+        "salt": "55384203",
+        "info": "3d0658535d9e8a5229267f1e78ce62ace57dab56053bb6c121894f21199ddd7f9920f3089cc7e8677311eddeabc42062397fdaa27cb924668ea0443ae86e35811c6fc538c5afabbf562aede238b51efe138ba411befb58fd0b11002cc3506815e43f64399c2be82139f677fba3704dca5d389096906c11e8acbb649001f9b63a7524b0eaac201c88aa1072d8fae230a2bd53081a92b3313bf2d804430f2b302a50f8afa0dc74ca32254d5a1162be5c60"
+    },
+    {
+        "credential": {
+            "token": "6|dyJj}?0Fb)JP}+\"RCFnY,H\\Ek?\\/'POYnDM>N4zWiZ_4X=fh{N%}0Vo-ocC{0n%{A!fVwGQr>/r",
+            "user_id": "N:6@+yvQ^WEl1-I&>N&9n.i}PFh!NlYv:Ez?mXr~",
+            "password": "nn\"98[XJIw!k4mI+q_NTWe",
+            "ip": "111.49.212.25",
+            "mac": "8c:f2:f5:50:af:98",
+            "product_id": "Z4=j+NT<#^){4s/SF#/ww[:~%WZ`",
+            "ctc": "&som\\tn%cI",
+            "hash": "55147752"
+        },
+        "method": "SALTED_MD5",
+        "salt": "74727286",
+        "info": "37b9ad8433425adba97c4713c9353df48349c4dd175a49071d6c76ed232ba4238cb866dcf77b5d49e6875c589bc03d533740ca438a105a6c67209dd4d29a4b773a1e826c5c68d1cf8493072016233da96572bdb2b8bae4c26d3f62f2cccc0e2ebc2ce2db9946c9f68ef7d6c40be015360f56fa598d27f6ce0a3860496bd4f4068d564781de2392c74c0f16ef9d056fc03dd4a8e65ae02d7f4c560fb980f3d9dd837565ad093d4c84"
+    },
+    {
+        "credential": {
+            "token": "XR9Mj~='0s3kRoF[c)dKD\"OBfjw'^GTg,{UD!?|h_`*##i%ZRSb<a'Lhk=5!\"3p6>V2yaJ!wG.`W8R~?Ry`rOP(^fz1R%(At6",
+            "user_id": "(J'4|v;>'Wl8C]2TP",
+            "password": "p;w;i+(@c'vseg{9sF}NG,(1",
+            "ip": "27.185.212.145",
+            "mac": "fb:de:56:2f:68:67",
+            "product_id": "1]U}-(`c,W\\_NbQo?WlKAvU1{7k<\"Ef@#X8WzU:",
+            "ctc": "3gDt0",
+            "hash": "10264143"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "37686421c6ce2befd98c47f691c670215acda3865c8c2885360f2411b054afaa2e722fecff8827d2c66ad0ac3495bb7d6287a335ca5ceb95a446dbe760197b82761d3a8f4c9e93b0e0330030640424ef5091a64761b7002bc4db29fcca63a3c4babc27d0cae99767048c3079161898018a574a5b7325b27991da66bb482d98c4551ddb399d76525034bec1630f724ba4"
+    },
+    {
+        "credential": {
+            "token": "eSLLL84KBB49.CqW!\\m8Xj9tSka1D",
+            "user_id": "=Fasu>zR_oiJiN2fa=?_CMz",
+            "password": "=QykJ\\B#]NSgD}I4on2eu4",
+            "ip": "14.164.216.81",
+            "mac": "5f:f0:05:c5:4d:a3",
+            "product_id": "p}Vdd\"@#!v1@ZZo52tlFID7~=H[n)|E",
+            "ctc": "*`jlQw",
+            "hash": "55965866"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "6b0d4d0057b3dc2f7160e2f2ead2538d79f0dd71cf9fc0bff1a7a68fc421c116b8435b7e1700110ce946f71f60712a1731b170f10900153858041fac5e20a181a23f8db0bbef648178ea7787798c3e28f9ee05222c39abbd013cd8fd512c1eb94d832068fde9d93c33398f2550c46efcb2b82de0bcb340c44843ecfe752c4106ce6cc734133e645f6738f4dcd91005cdd71f5a0f29cd6233ab4bcbe11babd380187d94023ed3c54742c6602df5390c4b"
+    },
+    {
+        "credential": {
+            "token": "z_06wRp&6E9\\#j_`G8W\"|K5ny]hbnj'D.#@'x+sA&i>5<6~8>}Nd3@q]D.-bma%",
+            "user_id": "i@u)r*\\y*\"B0{KgexS{",
+            "password": "zm/G;r]h&vjTK\"q71,N5",
+            "ip": "6.75.125.169",
+            "mac": "a0:86:89:0b:91:5c",
+            "product_id": "Aa^:1^HQZz\"VY|170/et=*;{,m:/KmuVz~Je2Z7Z_,",
+            "ctc": "o)~7&",
+            "hash": "04822812"
+        },
+        "method": "SALTED_MD5",
+        "salt": "61097475",
+        "info": "36f5c5e2d3cc7ce4b06d270d5482bb4751f124ac9447e7651bc8efba848bed565bd3f63acae5b2b8e658993c13f7a627fd9e0e3111534ec30924e08df0910e33da50555db7e0591f38124977f8236473b47ddf5e254f4451d42a8883626cf216d12cc73bf4a02af46c3ce1ff7ba9cae5a9310262b4b68831f4ddbf772d6043873189aa3263fc3d475263ad138f9c95c7a35a3f34e7e7590b42a71678070118df532c06bed760d841fd7e4503ac1110d0"
+    },
+    {
+        "credential": {
+            "token": "K_eS5^+j#~Q?|lbk13b_@Ofu;K{Bh35\"I+6,'^6FX6nu~IRz?TFE*8vo.go{i]^mq'Hm/T:%(xf{>2aGg]:et6X",
+            "user_id": "(PsU9PW'`4{e>",
+            "password": "#l`0AqeZ3K31:Ua-CPwg",
+            "ip": "178.119.239.75",
+            "mac": "7d:c0:42:1d:33:15",
+            "product_id": "x94?0K(R7_P,MmH?rp?x'<7`1",
+            "ctc": "q*'",
+            "hash": "46444783"
+        },
+        "method": "SALTED_MD5",
+        "salt": "04198145",
+        "info": "eb37af309cfa4b3f6ec40f31560f0ee7ba4ceb895b6f333fdc9a9e1015b9578fefee9b5c48ca2ca5b680a2328946b4b582c3687bc6ee99b43eb75b7ac316e7dc10235f280490568d9df0daca1bac405db31f4c5ef2fc3038513402ce918dd4112dba4ad92dc2ad464b4e3ba19e0096a2"
+    },
+    {
+        "credential": {
+            "token": ":l?QR7`]*OS#QV&aqY9diIj6gh|",
+            "user_id": "hk",
+            "password": "qEg\\]uD",
+            "ip": "78.239.146.28",
+            "mac": "90:9e:d4:89:bc:83",
+            "product_id": "K*fY\"UxumBiacxndJm.TtK-",
+            "ctc": "VlRnWd9\"L",
+            "hash": "83652159"
+        },
+        "method": "SALTED_MD5",
+        "salt": "89731085",
+        "info": "22668c647b39849d539e06b31064af4fc7930509a9668848eeb0719db5682a13e222242d7afd25c9f28490067af7c1df833b83efe788150baded0c5f3f9ec8904cc0dcb68bae5e2fcc97f497ff95687efc6bb70fd769920b802d51e2c06f60061b60fab49b528cfbe23bf00d1e172c8e16f4393b6dc56e660a81039fa62ca982"
+    },
+    {
+        "credential": {
+            "token": "`Ls,8OdyM`NCt\"<~%`}/8+L!M0",
+            "user_id": "4v)w'(D3jFNA>y>sY<PYDWXT",
+            "password": "hb'ijVb1Q},8|H}V.\"z644Pp",
+            "ip": "88.50.55.153",
+            "mac": "26:15:85:0d:9a:6b",
+            "product_id": "]j*lC>SEafpasnPAPNf}6EmIB@2N(#022F",
+            "ctc": "iMGV-RQlr7",
+            "hash": "12253513"
+        },
+        "method": "SALTED_MD5",
+        "salt": "82938270",
+        "info": "ec9c51f5f52a232bdb7b415aed21278a9103b09025e308266e5a1cc3ca571552973798b86e4dbbc3bb9d29e18373d7e9c5cbb6cc47744340380157d1662d1d3b0a97a0049b3a7cd9fca9879d6a6e1b8ebbb75c07fee7d48151337ffe577e800f7aa55f6382b64a1ea5197629ed5358f02f7cb2dfc4781c85024a971a6118d89cca7d301d3620dc2ca8903eb946cbfa712928c278653f125e"
+    },
+    {
+        "credential": {
+            "token": "8b2a/pBibpby(U-^}TXhP\"T",
+            "user_id": "4'm]1Mnl|VY&8e+EXXqxN9pXa/!pd<UDsV#",
+            "password": "#|sgsb%A+0b",
+            "ip": "48.46.254.200",
+            "mac": "a7:23:28:27:f7:c6",
+            "product_id": "V~&@vU^'1",
+            "ctc": "s*v~EH<uc",
+            "hash": "72964331"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "38ac995b56dfba9c20be55e5b150bf3aeb767fd0f1bb565335734b8714cf1857d9c94aa40095318548620a57c1fc034950ff3421f4f6deafd92d8c40ecb7023da26b1c51ccaaf6101b78e261bc83d9444481850943010f422e84b20187d8795aec81ac93d28177a797c134124b6a62b2e781abcf3e9fae6bc525ea61027c230ec35cae076cdf32b0e6cdd2b0141bc08f2556c32bfd9cd567"
+    },
+    {
+        "credential": {
+            "token": "P-fE[zLQF<!b-Viu(]yL|n4#^,3b\\?hoA1`?aachFqRn#v{/]d@};wNe%{|l9dnhy<-~1zOM+_=3jDykA||d*XEie?*b3la`",
+            "user_id": "&;5",
+            "password": "^!yVV47.`~",
+            "ip": "41.5.205.203",
+            "mac": "0a:de:2d:75:62:4a",
+            "product_id": "a!/(t:,}pBP",
+            "ctc": "/T",
+            "hash": "41285136"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "be73d6da2094b0b97ead6465ca6db7789fded5094561568aac84768491d53af3a227e75b449ee094f82147e54cbb5759d288f059e51086ce4518f1a591b106b181fa38c86be75f8abb0601aeae511fe6e27ad88d4ef93c270a412cdc2b16df3803b178ec6b3ed2580cc22064e25197eaab4c35e3a545e3cae82f8530e1ccdef065b8d7b87640d59a4fb819bcd055396a1cfd0004534e975a2a9c3d97a3d64c56"
+    },
+    {
+        "credential": {
+            "token": "SqRL9L2Ej^U|oiIUqHNlrJ=1m&M`p?`N3~?G.V3@;-Y8t@E7?hz-pq20@,77V)&ovDUEJrftR4yI",
+            "user_id": "nv_c2aAmoi:Gg~K@fS",
+            "password": "v8|2ii>M_Om8pi?JF+:_3",
+            "ip": "51.38.50.55",
+            "mac": "23:23:03:e2:e5:ae",
+            "product_id": "rgo+qp^m6n,[3Lk7VZYVJ8>SIHOp16Gj:szFJ.D[mTDm=p\"&)V",
+            "ctc": "\".#92W",
+            "hash": "35654354"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "8569ab842ba945c6f7a665d239bbf3dee242b7ad48f5a3475c4d0b17d138ebcc355dcc53e67b184cb3f26aad48a7637a3b284559ca0ce78afe1738d543573e70232c6f3836f413758cb81fdfc3f9cc30c53c2f3123d39dc2becc72ac32973dc97034586c925f0e918e6027c540cc870d"
+    },
+    {
+        "credential": {
+            "token": "Z/C}pbu@M&<fQ6J6aK2oYN*<!w<a.PoLfocymE_:T_O_92-\\%v]@LcjU",
+            "user_id": "Kr\"LMQyh-2J5%RC8b0OCj#\\XlL.;I,jQ5|6)Ok",
+            "password": "*pstx#z)D#i%%W#",
+            "ip": "63.193.90.124",
+            "mac": "8f:4a:a2:39:62:c9",
+            "product_id": "RM+]jsMJpwk?}F.5JF9~K0=JgAR^o+0GBJY",
+            "ctc": ",|",
+            "hash": "40470456"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "0c7bd89a1ca512ee4d3b3b09259e43417a76792a6d01b5386f1fe063574655d1e3099976c18e7a0dc045898f69e4aff54c53502754cb260983c198c7d51f7b3f953a6f473029dd982cc7859f94a71ae3eb5afad966b130a5325f65f0a455f28b60a856110a49c93faa197f275fff91c11ad0c10cf5524225c1d8ae78b971630f09101fcf3f7a59a28d5e3b1072e02c0b48c6970332c126af20f99ce42997b238e677f34aee73769e603b024699c42721"
+    },
+    {
+        "credential": {
+            "token": "\\\")[Ho9p<TaN:7oDl&g(s3.:z%>_39/Oj|zYK=pe6<bTgOvVg[@m-y1.9p%_>'{e_ARo=}",
+            "user_id": "82",
+            "password": "O>Nv&c5%epeh>G3n",
+            "ip": "43.240.225.81",
+            "mac": "c1:dc:38:ff:53:75",
+            "product_id": "yY",
+            "ctc": "c0L3x?u;*",
+            "hash": "65521550"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "29277c7422065872d248cfc2e390d62d885ea6a6f203215a8bcb1849eeefdfdfaf1803b7c165c28c215ea75f54c60d4b520767cefe641276e3d2df563f5771553d64fa9bf2d9552922f87404b5f5d6f3f034dbb2ff30a67400b19aec59036ed6d35814f2c6b93de1d9a04e1a7dab0c337554bd8d2dbbfa48dc2d6cca6636685eb0c761fc8afdbd39f19768a83e19e9ed4c328f19dec2d34196aba81ae5b9dbefeddeb8ee76d960e35c78dd4a0d0ded4da261fb2270279c7e567f5bb4145528ca9074384c3fb9c0391cc75dcfd930a9e3"
+    },
+    {
+        "credential": {
+            "token": "Ff5",
+            "user_id": "g-em7WP9;NB?\\!ks",
+            "password": "dqK+<}xz.!N5)*2-cu|=Qn",
+            "ip": "74.90.115.158",
+            "mac": "1f:bb:9e:ea:40:af",
+            "product_id": "'gr^29>",
+            "ctc": "m](jTb",
+            "hash": "04931461"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "0d9ca7e94dcb62d6cf7f8e69a0d6601c0192aa67a20cf600d678692edbcd73b7fac2757a90ca81f03fe7dd8e367d4d1fa0abc8370568bb65c6ac171be6febc32f6556de6126771f1e58967aa9e01d3d07bedb1bccc1677404bcf5faf798f04aa1d0a8351e363ada47a1567ddb692082384929c4099505f8cdbb15aae91a1be28c25bbc979885326c7a5a591d4a4319c0ba107e546ccf9957"
+    },
+    {
+        "credential": {
+            "token": "nXF}nn;*N)f5On&z!yVV.++t]Q'mgLp:<b@h`\"Je)`x-%(s*%PX[^pPh)5f[Irj[b/>",
+            "user_id": "[7XW.;0U2)xiYZsE",
+            "password": "Eh&ZL*nS",
+            "ip": "141.141.169.150",
+            "mac": "43:6c:4b:22:3c:e1",
+            "product_id": "'^Le9:ouQM!9)R*kho,o",
+            "ctc": "0+<n\"8p/rZ",
+            "hash": "22622510"
+        },
+        "method": "SALTED_MD5",
+        "salt": "42133764",
+        "info": "53a3627a4a5fcb2b96de05c3aa578471e9df622cd97c672e0c179ac3fba275b215949c201e89ce8a9798e25a19406c65b614e7dd3f28c94cbd50f884a493d6aac67dd146e8f8ffb32be1ad9c8eef434fd60e39087caf127ba8352f5e6f9bf4e6e4860d7ba75add2a630c175cea2ff7d67bcf42bc3c782a0d4ee1dd1b74b99b1bd8c22cc358b714228d671b54f15afbf4004a07acfaab7e47ad1efd80cf7c01a08a796dea10ab39896659bc2858df299b333291a9e78380bc4a94ca1b040c89a6b0f1503752615f56"
+    },
+    {
+        "credential": {
+            "token": "3>OP]2'4`Rb~W=h~&};kKL[FcHbt=*u?RtqLg}-Lrdqiqr#v`|-#~u39s--F4l'G}[k!?x",
+            "user_id": "+^;CM,Z497}e*;e5uUAEvT5&S9hO",
+            "password": "\\]eDX`0gO]",
+            "ip": "139.22.7.197",
+            "mac": "32:c8:2d:e2:d5:0d",
+            "product_id": "%`{`",
+            "ctc": "45A'a",
+            "hash": "12564473"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "b3c1d62a0b06ac8a3389f6fe6e87fb37351506ec0855caf993aedbb9dfe22710283833d2e5450416b60cccb2db6e05b06a17231ce6e4ad59edb423fbfd4ccd5a998a94a29f6c5a0da73e0f8e5fe3e26516e49e3d1c473790994ac6a31fecbf8c5bba47ff1e6fbd532798b09df770bf30225d7dd99ce541a74d23964d2efcdf6844c0dbb7378bd4d63b878a6c4698873fcc009029c996b28e"
+    },
+    {
+        "credential": {
+            "token": "\\ma~F!DA4iw\"5.dG#I=,ntf^_[XL`Mtyln`^^2oNO;Q|+t9P9zn@N",
+            "user_id": "h%A/NI}WidzPZ6J",
+            "password": "K+K%Kt.",
+            "ip": "129.108.164.86",
+            "mac": "12:84:81:22:6e:eb",
+            "product_id": "<H%K}XG",
+            "ctc": "Sm-/k",
+            "hash": "73413142"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "f003f018acda2ae4891ea9a755fd3efd08793de6bb671e58be002652af56cc762d15760b5cfc2d223888839133b08d9136d3d7ed605666c17188dbe5e3a6e8051e914f75418b7c2963e7bb54a9852e781faa2f91e339cfcf51e39cb9376127b58baf20e5304366ec30e9abc1106e6a3d237307b88e5a5042ad2ec1f056f0c65a125f68f26a3d6717"
+    },
+    {
+        "credential": {
+            "token": "*:|G~?~(PJ6qIY|YpOt!E,)yr<4l]N/:kCWA)QU0+f-KFc+Xzu40o,^Qj<(kD`6K<&w<&bXM\\axma\"Bhte0",
+            "user_id": "[{C",
+            "password": "IT~Fe|Zd20D8",
+            "ip": "143.166.182.187",
+            "mac": "77:ac:db:29:f3:be",
+            "product_id": "[W\"%W.==kw_7}9mTl'>ofN+a",
+            "ctc": "+34JL",
+            "hash": "32763448"
+        },
+        "method": "SALTED_MD5",
+        "salt": "68579303",
+        "info": "989cb169c332bdc15c4ee719f0523a35fc0c3fc81496368d83cf75f5d767d0aa04086b9772e3b45bbac2331a3c9cf2f38a14b2b92c500776f24bda7556ca7244157e5eebb9e969ea2250d736d6cf83fc9e80b29d012f2f3a7cfada20a6bbd8b7bbb507eb668353f1"
+    },
+    {
+        "credential": {
+            "token": "YxCx}|V5)(>vA>s%ax*6)\"O&J%9^qgNRDKskfDZH<FF8WrYH9xBC.3L8*rKkh7UU3wHH#|c>DC8>]JeZ>*M.*h",
+            "user_id": "\\Q6yPFcPb\"*}E0sI=gMI|vD+\\3uDYz~0wsDD",
+            "password": "ehs2]e^/",
+            "ip": "10.200.154.46",
+            "mac": "44:15:74:84:3c:b4",
+            "product_id": "DK\\h;FI;SJ|a:<:0_~[=_n>{N",
+            "ctc": "yz",
+            "hash": "45629313"
+        },
+        "method": "SALTED_MD5",
+        "salt": "74780222",
+        "info": "34b69fcbad770b2c9e5f58169bb93dd13bba9dc46f90abbd215da3d8b9a821f64826875a7b481b5b24d40ec09327f2efc8624a839f5c5cca132bdfc1772df998879e3a9abe9236b5bcba240226b5c98a20bff64313155877537ca67475fe0910429b2220312cf0a12a1e782731ceacb917f1c8a6d6da512bcd5255519f6d8ae61035338bf90a6d1dbcbcadfd635efb1e609decc5435674a9a9dc8ea69fcc4fb5024641bea46a77e6"
+    },
+    {
+        "credential": {
+            "token": "3\"n>kR9iw\"LGv{Wm>x",
+            "user_id": "16b#8G^e&%i5[VB0P4W[XAW%wRp>qf_g4",
+            "password": "Dub/",
+            "ip": "236.67.179.163",
+            "mac": "52:a1:7b:b9:a2:03",
+            "product_id": "GQKKGgOq&+#=AfkjCpLLv)KpI&)}/Z66RW*4i]%e+tn",
+            "ctc": "BHs74",
+            "hash": "85021632"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "879d93dc5c9542a64c547e1316714d1b83c46d1979c895d1293bda954c7f09299d70f16bc5ac3029e39571bf40266310e930b76b796e9ff29e94291f6137bc605585d92d5fe71b2276ea88f8cbbaba00bdc96d64a13fba5c83ce0ea55bc16c1a3fd349e4734b19bf7f9154f446cacdeb2dca6ebd55c3019391f91b2f624f938ab5809fa215bb9d03cf4e8a8e23407384c65d12e419c319fb19dfd41bb397ef0f66eb97f2fdf28ee3"
+    },
+    {
+        "credential": {
+            "token": "2Geu|x3ue/;-cJC`=qi@\\Ul{<hm)#G~M@Kp-)jA#Sw*",
+            "user_id": "-~2R~.6&xJi7f`=*i\"]}+o)nHd*&.P",
+            "password": "~\\)l'\"Pw`",
+            "ip": "35.45.234.120",
+            "mac": "6e:76:44:ba:44:0b",
+            "product_id": ">3C=>{PKfDF*`c83XM>\"\\",
+            "ctc": "Eu&",
+            "hash": "56243455"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "b0eef074b90105725df42add478ca4123d47116aa5daec373f9fc92b284dad99aa8f913cfaef916c6b3ddf33a674ec51d1890879c5d1fc1bb7fcd5420716e7ce0b75046ab4b7d8ea433281fe521e2e5fc16f45d9f027140d"
+    },
+    {
+        "credential": {
+            "token": "fDYcgagba*\\IBvy74W=EWZkedbI/n8tg~2WrXZ;E9g%p7xejFn5JR?[G0rm",
+            "user_id": "xeFwVv5,A?3@'gullOaKj60Fr8yGH;28;`.5Qo",
+            "password": "%r[c(?WW`6N[Uot0K)'~\\OG3",
+            "ip": "175.129.173.195",
+            "mac": "ae:93:66:60:53:69",
+            "product_id": "a",
+            "ctc": ",Aa?WT[T)",
+            "hash": "15551675"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "dae1618e6f2f97e366d700df8bbf9335551ca0a90ea948ea15a5f4775a32763729f8829ea044ca5c8d3afe9edc9da4f7a0cef80a9f0dcf1ea80b97345f6f260075d668278fbb68725fad8057f3c519e2a8f8e70692cba609bbd50fc80ce984bdf6ca4d13422b7894"
+    },
+    {
+        "credential": {
+            "token": "c,73mhIR+v_Mo<A=X\"%`Z?&:zx?E9a8=g#L']!@a#X#C><W",
+            "user_id": "``:+J%kn&e2",
+            "password": "x}zIq4F",
+            "ip": "168.59.115.29",
+            "mac": "b9:be:e9:74:f4:3b",
+            "product_id": "Cy=e>",
+            "ctc": "CO-5[a",
+            "hash": "89214230"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "fa731004f54c49e2d57ac77704fb0895c4e14bb5c9f4fee67e0e73b80cd3bbbe91709b910efb7d80f1bacd66be9d79f6fa5baeee5ba6e096cbeaf97c52563ac821fa4a36768bad4517aecab98424e1ec73bf57e35e8d6bf5e1f5a2258f1033a493877727ce35001746bfb393d72dc032ac0b281839ad543e7b1793faed887cbfc998da47a66a0413207c9a7d640d2b4d2e9379a26ffd402e20e64da9f55aa51b18fe311409d42cf2ee7d874ff405d680ce6b8eddaeb4dc5e"
+    },
+    {
+        "credential": {
+            "token": "pu]Wgc`qenW>Ulz+#lyiB:z{_b(7Dlcg?F,@2C|OTVcSR>cs",
+            "user_id": "Ja4TGz3AD8ejb%8hKXZ25R]u#k",
+            "password": "9vGz+GcoJJn",
+            "ip": "214.174.70.89",
+            "mac": "be:ff:6c:47:8c:d5",
+            "product_id": "rBjx+]<[}eBm&'NkiLRB`6",
+            "ctc": "is},BF}#",
+            "hash": "34634281"
+        },
+        "method": "SALTED_MD5",
+        "salt": "23907953",
+        "info": "8ba40d23152f3d86921fb4a72e47f64625ed8a5ad52225db24562e203f6fcdba33f678b3dc2e2154f28a4f3ebabaeb264894d067fe3df6dc9c1b812fcb1ed7531dc20c991b2fbe1fa831fffd942c2adce84c463327031500061b96309770e31bcb281f0d0ca16a55be9a8c96920593d669b3f98d960a0309a6a488e4fb4809f5eaac1d991b4b7d44ad1fd792e081d32612990cf57719f68ca1b07dd8d024ca6537e46a3c4eacc20a0b9752473802c411803816bbd88b692d3d128e72a77eb2d2"
+    },
+    {
+        "credential": {
+            "token": "r(7m=(}.,Yb[R?0&w+xB4E,fKcrjFI'^n<~+XE5rZ.wJ<}&i`rdB^eZ+}:*0;jD(<gj';&WL?B:aV)d`\",vEX",
+            "user_id": "K~a#%bZTNv3}_QnurEN=8f;",
+            "password": "Or<~}2RdaEEp}\\o[K",
+            "ip": "251.109.127.242",
+            "mac": "7e:1a:7b:ac:fe:78",
+            "product_id": "fIZ_Y=}~zCu[_Y~fS{O;'C",
+            "ctc": "0oVJ#};,T",
+            "hash": "69821920"
+        },
+        "method": "SALTED_MD5",
+        "salt": "89138296",
+        "info": "1b05c0836ee4996b20ad21f0ec5e10c3d03e23f45139d8f673443a6763a87fa5ec7488e45a8f6c00497d7b642986953ffb5d0b123e9c47f8ff65dc23ab63f4b19f3d26a967670417ecf088da547b106bc4d403eb36bf84b810202c498608c18cc3b06ef05377f506bbaec8f10173aee835f422e16613ca922fd81a89ebd2e776a1ea060cb6de29f768d975eb99330274ee0266cfbc670603175d201b61948268"
+    },
+    {
+        "credential": {
+            "token": ":OQTieaFQq)Rafkfi(HA%*4JwRW2_p+\\oDhusf2ZdKO\\wyg%HIK:X\"0u_C",
+            "user_id": "<G/FCZg{=,)%i7a6",
+            "password": "9Af6-+_LOc,I-4C]",
+            "ip": "94.215.63.140",
+            "mac": "f3:70:c8:60:d7:71",
+            "product_id": "tWP~l%Qmwbu\";y<&nxW&4c{zwc",
+            "ctc": "i4NT",
+            "hash": "51689361"
+        },
+        "method": "SALTED_MD5",
+        "salt": "52383981",
+        "info": "7c67e3a121c5625ae4aceeceb40186a8082e8edb4d16d3088c9de8996be9bce4ca9ac53363a58d33bd7b64f90946b641c83eaff20c0b561f1f7aded68acc17a3e76c458f3a4850cf9d8aea08d0c97b30f3e8dc9173c913cf32f45ee3f207e8c31a7d86687af29dfd44bcc7e711f37e4ddb3596b7318dc6f16e8af8bc1fd889eca410b1a6543d01532983c44ca1437e4c9606829af813c40ef7124207b296bd153e1cfb6bfc299e68b9da72fb6b03564300adf4b5e83aa74bbade9856c4ffe533edf28a53963388e70b940f1be4dcb29c"
+    },
+    {
+        "credential": {
+            "token": "EH5",
+            "user_id": "]':g~7KoN*ah-@cg1^(p",
+            "password": "T,F@u3#MT",
+            "ip": "59.6.58.250",
+            "mac": "df:8a:55:4b:7e:d3",
+            "product_id": ")].x|r9:6d;aGa|/D+9y]u;Xyu,!At,!AwIN[2%",
+            "ctc": "vyZ#i>.L",
+            "hash": "53841236"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "fe2a234cfda708c75aeab45c207f55f261635b84b42067a9f6061f1abdf66516edb62620d09d9a9695bf0029bb0faf470f1d950c95ec33e0874b24749d0bfd30e771476c5ec62fec106e0cd1d61a8ee4bc2634e3a8a3282ec2fa13f4e870d27f5ff89f8c0befe035cae8072bc1d8160308eebec2ce847c9a163ff9f35668669773b67d918de91eb2301a27a806866e1d13bcd92e1dcad85f6f567ebc2fa32214557b6c1408518b56d276f3a333c964e34456f35f2e9789a5"
+    },
+    {
+        "credential": {
+            "token": "9U}P;>_WZZ/[rZY{7zJFh>]+`sW|+MGSR.KGf_q]PnwJC%U1x:BNz8dA\\::*MU5Z&57]",
+            "user_id": "rQJ`jcAsjzp",
+            "password": "VG)<(",
+            "ip": "198.144.197.190",
+            "mac": "ba:43:c8:26:b7:3d",
+            "product_id": "gX'5-0}`OyE%w&q/r+9}k..E{",
+            "ctc": "/q",
+            "hash": "75044305"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "8d64d4a598f5203aa72811e74c582113d45000f8b1beb93b3ba37a4ae9cbbf2b9dc3266189ca13d7ce9c1ce2634387e3cb77cc4d746b92a7bb679044ca3b34f30d1fffa161e2854ad876334e30bbad8319615839d8a8f7f8"
+    },
+    {
+        "credential": {
+            "token": "9o?N=pP",
+            "user_id": "h\"u<E^}9Bi_2e&&ah",
+            "password": ",/)>yiJCXhTv",
+            "ip": "86.253.74.228",
+            "mac": "38:8c:4e:38:ea:35",
+            "product_id": "`T+wK~eU*E+nf_sqPX\"?}2TB,<w",
+            "ctc": "m",
+            "hash": "26262475"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "c62172ebd2698ba0eb56860c5db1abc3284b922309a5e6c76a5beae85829b2f1312b003ab0e9c9fa115be76ec58d2ed6416e0bedb17c1682468b49af92aeeaf3aef275d00a280a4b81f5013a813277bf3c95da605ab9d76a17300842026c2ea84f56a73c7a86827297de953401862b86803973d43fc15ae45cc4460349d67fad295cfafd1651213c72b930acc30c6eb9f3d9982e6fbb25845668f57c89fdc6067abd42ad43494f96366b8044ea3f4193"
+    },
+    {
+        "credential": {
+            "token": "u#mpzt)DS:#bh.S^~B+6sWLczxWT^]Bq;MlkK8|4*i:|s9l3G\\E4gPx5!BV<?)n(?j]=X@@>S+3:[5jI]PA%,}Px-_eKf",
+            "user_id": "&&u{N:7xgf[i`>H9ms]zlXuP-",
+            "password": "vi.n<\\ZW&fq6m-aj=4t%\"BU",
+            "ip": "12.236.20.137",
+            "mac": "49:c5:a3:a6:7d:2a",
+            "product_id": "Z'Ut_",
+            "ctc": "hIL}?F[Zz",
+            "hash": "50640453"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "914d238ea0d7a438d568e9e11a49405acb49ab9928302b7fdcfa80eda27ba85983323a061c077bcf1150df866592f223a44d56a10a9269acce89939572e1aebd7ab932f11b62d5822424cd0e8c9c374c3943c86d18c151989b355448d5fe83df310834b81a5bdcd96c8a2269ef0750f8a709ecfa392377b3"
+    },
+    {
+        "credential": {
+            "token": "\\",
+            "user_id": "eB-Qrk",
+            "password": ">Y=J3?_&04b;={J",
+            "ip": "50.18.164.136",
+            "mac": "54:67:5a:75:31:1d",
+            "product_id": "%Z<@^1",
+            "ctc": "?.\"^53",
+            "hash": "28439758"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "63d8462168e95822ae58128c26c6069545429971e4b64f410b01b6b663a905afddfd867649c5f17bb673459307d4915bfe745a5f9ff3fa3b12eb1e3b99edcf45f66af62f2292352d7b27576c4bf5a96183259331acdf7ee840a59bf8bfc51dd99e21c152bff95d23b548f5f7bca798ab91a64e10bc6155db42cca929dce574714851cd57a11dc6287a83ff560b60139e"
+    },
+    {
+        "credential": {
+            "token": "--n!.37Qr?&Bk=DnvpH\"#5KoQnBccWz7",
+            "user_id": "QM",
+            "password": "oLX-to%1FI",
+            "ip": "107.100.108.104",
+            "mac": "93:31:b5:ca:0c:29",
+            "product_id": "pZ4sfc}LL,.W%hl;_'d!HLWt&PnJsA",
+            "ctc": "*(D\"bJ",
+            "hash": "62563239"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "de79261ab167319fddef54d3a1ee3750c9b8047e1b236e9b54b2682b56da257b3fb9eea00467c2e3b0823387530e280a6d3c69e6089ccc6d325ce731d0bccefebe5a8bcc31fad8758b8c1eee0a84650ddca35df6727be5d8663153cf0a9199b9782fa06d911d5b9f87f90b8a8163a32ad1504704677ea5c7b63e80c6bd333cb8b4329d03b2e59429a346b3af3c7e85b694af083056b2985c"
+    },
+    {
+        "credential": {
+            "token": "[u",
+            "user_id": "1e:A",
+            "password": ">esQpQSR",
+            "ip": "24.161.77.53",
+            "mac": "b2:fe:d1:7a:80:00",
+            "product_id": "OEwnbqD)}uPy(LW^ale!_[AP@LFLz::A4",
+            "ctc": "WO",
+            "hash": "91263476"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "57be219150e9a3bd044e632e5eaf93dc9a34f32453d95c39a4fb7c7cb4b7105507c9d8ea0c428ad975f8e2a4e6f018dacc4b3c9f65b9852ac95633a9b1dffc31724c4ac9f0970e99711e390cd643ed98c5769c941dd05a3daca966649ffd15b5159d880ccc0096578fd21aaf6f4dd36b34c7bd47b512628cc63241c2b2a1edfe3029faaf8bcde07a"
+    },
+    {
+        "credential": {
+            "token": "2\\xEeZ?f)[#\\9{@zYm",
+            "user_id": "imfB*",
+            "password": "DgH\"i.jqTc04NDB",
+            "ip": "108.35.183.242",
+            "mac": "d5:ac:7c:ef:e7:95",
+            "product_id": "}`%q=*OfC;:{l.L9p#,DhFho0z!R",
+            "ctc": "s'PQc\\&",
+            "hash": "50404969"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "89b78da2a66f5e02fbf28f17cc1e2943fdc9cd5d32e265508f4fea178115b41eaa768e463e7d1e21a90515a1ab3bef6d235d0fab80123891b9d239b1471e625cee7f13d25809d3e89a8807650ce531530807d1cf34f962e1d01a45504658b993c468d6642647d90ca6437b4d8ced9821874c5fa818e6f1f964db2fa0ab91ed6350b7b6b4a99e9e05dc514d7519d6c255"
+    },
+    {
+        "credential": {
+            "token": "V%m3r@[T``lK^2sF\"P>\\\\M",
+            "user_id": "D2Ie&gjCCyAi#,/M<6s4N,UmAHS!",
+            "password": "uI?o[m8%A)",
+            "ip": "116.20.115.2",
+            "mac": "a8:2c:05:e2:80:1a",
+            "product_id": "oP[h!37wHf5:@]vZYz}iG;.Jb\\?(fU,OD#]SOL",
+            "ctc": "<Ui&",
+            "hash": "12166053"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "4ac2c9d610509f82132c672188eb47c260ff0ecbc4f7294bfb375cecaf81c73bcbe05436d6f6d23077790f6d91f98a4c0e405bb4b50d54a72acd8bd516db0dbd21580eb0a0e1dbe8ce73f6b5012ed4652fbac0cfde45e6a6debbd67d734797077960508a798a463281b89898f981d7d58cae228801de981428fa8e733272e5d885b28cdc8f84b9204090ef319dd564e355d877b6b02a93f4cd63eb27ccf7ce9f10d4a417676a2b4a5096319a82ccc5ad"
+    },
+    {
+        "credential": {
+            "token": "2\"[1wsID2+&Rc*oQ\"f,x]WQ!2i]UfoP3B`Q,_@`NAfR4IUt85\"'dXT!E.NHY>Xwy17}\"=mKiH|[H]vD]h\\lVb1>aW",
+            "user_id": "HSLmG%lt75\\qjCCDl5M4/mB",
+            "password": "nEqd@>",
+            "ip": "4.115.227.161",
+            "mac": "fe:0b:9b:a2:d1:bf",
+            "product_id": "/=+VK1:l@9~4fcgf>K)BDb2@X_IY)Z=t)36Ml9emU",
+            "ctc": "a3Z0hczVlt",
+            "hash": "34141944"
+        },
+        "method": "SALTED_MD5",
+        "salt": "44691314",
+        "info": "0bdcd6f731372c7427a0df4f3ffa7aa0b22a2c0b2769b947edcf908ee712f40c4876db80ef1791082b845ea300f30be28a01834cabefc6d0f2ba67303bd830c33d7fdefda0904c5d2e9b1eeaea9c4f4ad76b775b843e4c7f6a7577b24d47d35f13449ba806e1601b2b48bd9b88dfa06c7d6e94543fa082ba"
+    },
+    {
+        "credential": {
+            "token": "e+uAOqn+YESP0ij>@ZKhU3\\ar7|f?t^|*vf!#;[ZR`AZDQ9wS;b}^qof+?~#q|&ZqF8u<2UcrBm#\"cF{qi?j",
+            "user_id": "`c^{0/.UWE*>=jKqCt]#FKH(F{bq9I",
+            "password": "+mQy07<tGIq",
+            "ip": "107.174.118.166",
+            "mac": "1f:7d:b2:29:b0:9f",
+            "product_id": "]Rn!@mlzbrRD/",
+            "ctc": "-/be",
+            "hash": "36949503"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "1cb1850945109172fa4c619b9e22a1ef57a01d3b8097e0c58af6aea1ad408560d6172e625c465a398f520cadee8bf4f5c09aa7464eda440347d8895950880524115b7ea6a4f25d708ac5535d3ee7d694194ee342421072dfb83ec6b1ed8d54c9c95b1407765aba1fe8e382c87c4a7480304df9e7cca2847fc273f16ad0c61dc5d058612ce654dc92a328cce4d18a3f25bc6e24bda6731450"
+    },
+    {
+        "credential": {
+            "token": "]O`a2!;w\"LRp<2mFCTR{g{VR&r73:?]Voq1o5Dw<X[\\&[hV]cThD~uv'",
+            "user_id": "\"Dd{FnZ,J:nJs~qdRJr;`?RXeP!?'&6\"<\"hJ",
+            "password": "*[p(iJIWa\\72",
+            "ip": "159.160.147.150",
+            "mac": "84:e6:60:e9:a6:2c",
+            "product_id": "z='6D%^>?C(Q;E__lJ.ZSbr<NEys{1=M:+~ancpS(o1",
+            "ctc": "L",
+            "hash": "63324281"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "7e21d6b601e74d9cfff985138b8ee83733e991e044c68fe7c0f310a5e3fe1ec86e9aafe7b1f1c4fe353c60a478406cd4c725ef60e7bffbeed2ec05c188c6d392908c7c8f437bbd155aad993c44bbcb05e0c8089a479d2a9769711cc2534a4dc6ec1354f55902a128a6e7cb2eeed9f50bb993277f150c13fb721c18626374c209441201f3b2f863654a9bfb06ac093802db455a80f83ecd6a"
+    },
+    {
+        "credential": {
+            "token": "Jb(\">ObdxZ=O)W-Hinw]Jp@?,=Hzl@C`b[t!5nmt=l\"Hk6Hsdap",
+            "user_id": "/qQgKy&v`%@ShL",
+            "password": "(G2\\W",
+            "ip": "62.223.169.130",
+            "mac": "ae:46:a6:25:e7:09",
+            "product_id": "58FFEF",
+            "ctc": "ogjU",
+            "hash": "34366424"
+        },
+        "method": "SALTED_MD5",
+        "salt": "60011107",
+        "info": "99f96ab0288b0099843c97fc483242ebc8458791b09d84594469bb8269eddba0a33dcbe97364c38ff8111951205d62a65fe8c8132b9f23bcecfdc393473afccb0d9bcd652b9ca9b44c187b4341baba693a692a5d18fab88b492a029e66935ebe3d8857f2d89eeefec599a8c4afc34e7c1953e44ce655d70f"
+    },
+    {
+        "credential": {
+            "token": "&8]FE4>YC|mbwdpo&z##-zT4",
+            "user_id": "%Zw8{hGQ\";}P4_tr_0:^E>r~a\\WM0H(3[kgX9JQ",
+            "password": "KX.\\<-OjW47bq&_5t1~BV",
+            "ip": "220.101.198.139",
+            "mac": "34:27:00:93:13:28",
+            "product_id": "+C]UGTI%ua6?~Q!",
+            "ctc": "S^\"]sh5'`",
+            "hash": "61339195"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "200bb1f440f51b3456efbbe31176f03043e61cb357ce963bbeb0d95c1b7ae5ba5ff11fcef58b2149dc2d199739fc57f6dc13c85c816c49b0b77c3da946e7f1bfc7e80b05d5d49097dfedbf8c0a2ceee9c419cf969ae2884fdce91a32885186c91269d84fb4dba229f848477c3f666391b6794745de5824d518c5a0fba0648cc873ad3f0e51c79cb4e5c72f95f32294979407462c98baad7d62911f50bd1e5a327c5cccc22951e2baee8553a78bf1f29aa0eafb7ac73ec7e64906a80b267e6d456adc73a924fdb760"
+    },
+    {
+        "credential": {
+            "token": "9h'hGl<46<saF^jab;vz!T,Wn~G_Y69#",
+            "user_id": "\"&5Fb[ms9DOhnu'rj",
+            "password": "GYHl52t{sp)-(7]W}2gr;g}",
+            "ip": "249.17.162.156",
+            "mac": "e5:23:c4:ba:df:99",
+            "product_id": "RfmLm-/a(\"a8'XJt(ye8_X",
+            "ctc": "5x34Oy?oXC",
+            "hash": "55289319"
+        },
+        "method": "SALTED_MD5",
+        "salt": "55484677",
+        "info": "c670264b11686e9a1467044d57560bfd7c9a1b79370a0e1bcddbf65c20c5cdb3faa36c524c348ac25f3ddd4c86d5063f3e72d304d29fed0b85562f96c2d03972c2ad9415a4f2bd1117411c57af5ae613137d8dd71ae36fcd99e22f390cc644d88533b32a295f99bfccfb86ddc5205c59a5a42b52299c37bcd49aa97e4bba53d21cb36c4cc4a30d14e7d9bfea752065cca0f8bfb9b9dba113bd8204cc4b31bb56"
+    },
+    {
+        "credential": {
+            "token": "`Jg+4?'fD[^^{Y%+k\"^sDAD|h;nDt?qJ81,jo?gupH-J0ZrOCPT2&;[rd+|!0\\`zlF<",
+            "user_id": "XH;idg<wV>",
+            "password": "+\"7gZ;_0vn1gq>wa|(",
+            "ip": "97.4.82.208",
+            "mac": "62:64:ae:61:0d:26",
+            "product_id": "wJn\"jKwDP*`j",
+            "ctc": "IZ}Pw",
+            "hash": "44313159"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "f3e26092774a0bc7fb9eb9e19a5fb132704eed7f745ceb7afa35cfbcdf3b706f04fcf868fc0771af606d446e08c99e4390b2a4893752ff85782863f34405b5ec6ed1be819c535b1f465701ed15b18cc36ae07b8d118541ac"
+    },
+    {
+        "credential": {
+            "token": "-1\"F}XFs-oV&3bh;foA:qih",
+            "user_id": "5YwsyC%&LKHg|&=t_}IOF",
+            "password": "FuqtH",
+            "ip": "158.133.72.203",
+            "mac": "52:e9:9c:38:d9:89",
+            "product_id": "FP`|L*6vI/<gMQs]5KIP]R,c",
+            "ctc": "T7yT;Zh",
+            "hash": "23512620"
+        },
+        "method": "SALTED_MD5",
+        "salt": "36303624",
+        "info": "9635178012cbe42f3f43c0fcc5333dd99a6093060a0c09bfffbdbf05362aeeb704bbdcd322ba06924fe7a4d1935c529d161ee7d0d6f98f36cdb207a88e32dd7e83b1a6b37d32f365e6b6bf71f961d62e46e9cc6805645c6efdbd08607498f0178cf9f4f571d35e931ef43bbf7797ed4c567116dc27696a4074b63abd7fb3d5c61e02475bad634fd8"
+    },
+    {
+        "credential": {
+            "token": ")(vha=-jxBa@w;F<!ZS{mm<Wl?X.-pT!mS4LIz",
+            "user_id": "qL3GltJ>-(:B:noyvVNtjO+Tgi~@tB",
+            "password": "#t7Yl.tP@gQ8I=\\CKP",
+            "ip": "233.112.191.83",
+            "mac": "16:92:9a:60:6a:55",
+            "product_id": ",e%J\\cp&",
+            "ctc": "XYXG'AiZ",
+            "hash": "82426746"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "ba56632ef8c572d6030bd73140bb607386ad347f5f49618c42a419d133b8254e08e2aea4fe9f568c493f1d6728ab823612365990615f15b8ad6c0c226e4b68dde706cdb5cef2d7f939f7056c42d5c549474562389b96aebbf76b7d487ba9f8f59e33fbecc1a48c5e41153fc5bd05a995bfd67acc74541dc50fe0123c76f2046a13beb9af31880ad605c01ade40572f920f21e242602afe60"
+    },
+    {
+        "credential": {
+            "token": "Cr3O~tw",
+            "user_id": "d\\/1{Hn.a]gsBXl@H,^/F85@T",
+            "password": "N1s@;&bLJi\\`R",
+            "ip": "146.134.247.215",
+            "mac": "d2:f1:31:ed:c9:be",
+            "product_id": "S!]OO%Ez{8Zm~^?7'@PCG",
+            "ctc": "W1jP'a;1.",
+            "hash": "27125017"
+        },
+        "method": "SALTED_MD5",
+        "salt": "01355498",
+        "info": "56c1f54716fd808886f96544e5c80741c59569b90fee1ac2b89bd4cf7ae93bb1d58ae61cf606f59eda63beb01e44c7275bb7b89133b52da1d2457cc16bb1b3badb54afb98225700b11df23708e83c96879ae0b82f1a287265f2359ffe41511c00d38f2cb89eef49a48086274e045939150b2efc5af3c9cbf0d949baee56cc85561e3c2ca1d07f2b371e871c3ddecac55d77806bda31d507dfe7f22f88878fd75634b642300bc79036cd0e787f1299f6f8da82dab12b1ab7ec54c680f9981a22a"
+    },
+    {
+        "credential": {
+            "token": "UV.4[~8ZS`pC3\"sOT=:1A59X!I<H+|5Q@duvu)vO0j,?.Nbf0,f;w_8%Hg\"<-`i",
+            "user_id": ",\"0`EbkNP/C}!(EE6:8/rST9",
+            "password": "|bVG?:'r>m8)g*",
+            "ip": "148.153.204.195",
+            "mac": "87:59:18:35:55:1d",
+            "product_id": "BNu(A~lqta9s,b4G%B%op:cJqk!~VT!",
+            "ctc": "~0J}b",
+            "hash": "54695491"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "27c341195ebbcd546fb4ea0543b6a96354833b037c5f1c10064f66a31c47c73eaa9493cd85906a06d7dc1d613d4e6295a7f81e9bc82eb840796f4a3a1887fbeb80e97adde260e9fc9d44d2653fdd3e21b73e4a923e171ef6a257098490861717d58ad79328ab4e1f1fb4573f78545ebab49e171ffa72bd46b31de99e26e0ce83ad4f2fff3219f674a7a5847ef160d23f9812a74afd1055e982ae28cbd1805ab1363b33da04cb4210013e2831127c1a512af5ba1b1a596745"
+    },
+    {
+        "credential": {
+            "token": "1hNv1\"lQD\"cf[IY3SScJAoA67",
+            "user_id": "&%)3.YD')Ek:-p>3\\x|",
+            "password": "Z2L^t,x`(SR\")V!}1C{ZQ8",
+            "ip": "8.29.245.125",
+            "mac": "d5:6e:05:2a:d4:6f",
+            "product_id": "t",
+            "ctc": "Z%'\"qB@Y",
+            "hash": "55021013"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "9334177687cc6629086a9cf77c48488c213c00927bd8968989d4769fa95542974af9554f416aabe9d69182e2acc0f1cd4a92950746407bda3732fab7ded21b4c74dc407b0f88b3ff6d2dd66e3d4313016a0e62254568d01b71eeac2531898e1219473bbdb280fe9b4cf39b98075ea42aadc4aaa582874ed42a86b266d8ce1954177fcec7b1b6e3c9c04cb16a83479f3abfa52f20c6e2dff97b926d4a058177097bf02bee3bb76b58"
+    },
+    {
+        "credential": {
+            "token": "~)}Zz%PO1,q\"%PT78^eWs=WxyD%HVn[DS*sl8'=lp^Uz4C<[f\\%sbZN~XHB<p[FuM[lEb^#1J2c\\/.%(z=fKx\\,YjqNdXOEX0yQ",
+            "user_id": "MK',pzBeMxVhN8\\:^\\dmQ'|N<",
+            "password": "VeLv]7`_\\",
+            "ip": "236.44.208.11",
+            "mac": "91:9a:12:d7:f4:ff",
+            "product_id": "y|O9v9B\"]^*9R4d",
+            "ctc": "\\qNp?V",
+            "hash": "67276721"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "078fae17ec10e9bb19968a9cc9475d456ced3525911242f68dad197cb2e0fd614f356718bcdaca2b1895103c4e67b351ad86c554e7275a20899b91a5ef75c3a1548f993e8b1b62deec72e8ca6983cebe4e89ff8ee76f5477ea02f50af3433d22"
+    },
+    {
+        "credential": {
+            "token": "no|a%g1dH|ZmC=pw@})cIcIK8K'ib.}Q?b]x(",
+            "user_id": "E>:zu=G~GZ\"p~YiYDpR>`-C'7X,qck:)C",
+            "password": "{~jC[GcgyS",
+            "ip": "222.45.4.225",
+            "mac": "fc:c0:59:b6:d7:10",
+            "product_id": "JvzSS)m&&H'f<\\Q3p,CfuXP",
+            "ctc": "ei`c3",
+            "hash": "12238633"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "fade5edb3ea09a4a58b1f586ae02eb267610397cde7383a8488c2e40c14a21c801184e026834dba146e0562e63a4ba3c5df0d7a358a7ab376e3b5a243912619fc6a2e1e1da839b3be9dd42f78e9a80ab8159844c16ab0a1e9334ad3694530c22bca783fcae3ff63060e3571f5e915133f314849dc25c1d596ac3b6c2e2b42a1857153064faa691fb28ee12b0c123be7d"
+    },
+    {
+        "credential": {
+            "token": "jK>:fGEL6t2FW^q5~o2\\TP3Q{XITwgSr{rb[eD1V(7k4aG_C/8C;uH#\"Kq^xlYO?3QdyX+?V1)va!SaZ3}tflK`|g/;78i+(A,p",
+            "user_id": "<)RB&7mv5/sfOrJX",
+            "password": "#q2VwK|iFvv#9kF_elJn{`/.",
+            "ip": "240.227.6.234",
+            "mac": "76:02:e5:94:a4:f1",
+            "product_id": "4.!<0MlJzjT`N7l/5",
+            "ctc": "!5L,CAk+",
+            "hash": "01611271"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "529343f1a98b8bce440d94e0c68e3459e57ff95e2f72498e42c10bc22e6825744feb0ff533bc08256562855f13f581031d2a1f161540db5b8063cd6b4390822dff8fa9b7596ef06e130f817cf5bc3144244d59cd55126c59910c5280034af817c35cf3142d4df526fd5e9f17a837eba7a5f94d1170479fe0719433ec86225486"
+    },
+    {
+        "credential": {
+            "token": "MY!|s,A\"w8kj\"S(JbKF.`Gy9Wm|9aI=6TBv)??2~\\_e7e[WtXSO,sX=Eesj=*t=}Y^E",
+            "user_id": "?0'Vn'c+\"fX-ZD)",
+            "password": "VDSTe",
+            "ip": "71.4.118.6",
+            "mac": "ae:ce:cf:62:4b:ba",
+            "product_id": ",v>MWq|G\\xZU",
+            "ctc": "k",
+            "hash": "06951599"
+        },
+        "method": "SALTED_MD5",
+        "salt": "52346279",
+        "info": "d2f383a45d72abd520f56883f7b4369b1a7591e620986fbfba288e3bbcf1f6a4700f3b1ad315f408fa5844f2780827826998fea1b0ae5f767da3628ffc494dff27494771f71729741d43e1b7d45dc53181cdf47759d64385cbb7c86cf10a2b7d45a69beeeb9494be0845493fa109f158056fa41e986063210d08d3921ee2f8b9ad4e4c86ac6656ba"
+    },
+    {
+        "credential": {
+            "token": "8CtX~jtcH?6RPR;Y&wlP90^zy%4I;N5^M-n=@F9}PaL^k:rIto&\\L[Is!x9!po/P>WkLpu&]qy;!AeQ8=.'lPNSc%8X<<EuF1",
+            "user_id": "FMzW/",
+            "password": "Dfn%[P<)=fHq8dDtT<V~lUN",
+            "ip": "134.194.238.181",
+            "mac": "66:cb:f7:1c:52:93",
+            "product_id": "mo[o6TQo:)w+%>4w&/Hz1OA\\Gd`+buJFryj",
+            "ctc": "j6#",
+            "hash": "21943733"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "9fa42b9a0aea574b2bdd99e2efdd6bf73dc21eb5611d9bc11a18356f60bc4f0be16c5d53580ec554a85c0bd67bc7ebaa1821e3d9e30c04ef3cb7e48361e91acc0e951cd10a771dd2652f7ebf4e45de490293b7b19b72c03fcbf47d188008c8438e7bb178981cae7e76e6c712ddf50e54cd56422b683955ab608081cce366c004b6c05a5d39d5788f6c183a49aac3e23e4f9b85519c7a7689b660e0066addb4ea65ce3a75ffa561ff58f72cf3a96cdcd0"
+    },
+    {
+        "credential": {
+            "token": ".AvP-4",
+            "user_id": "0,mn2vPou}{\"x]BfnJFhliM0Yi,.48<",
+            "password": "Dv?KG@\"l/9",
+            "ip": "81.182.234.245",
+            "mac": "ac:2f:7c:11:9a:8a",
+            "product_id": "*?B^iXql^<kMeeC%;e<&y2mx:#Fzk_e:`Md##]",
+            "ctc": "r}ILo,C;",
+            "hash": "60459166"
+        },
+        "method": "SALTED_MD5",
+        "salt": "23206904",
+        "info": "0567b6adfe2f2749e3e4c2b44bc0be1a054c4efd156e90546e42eac62f68e2d54901415d8134d7cc8ad28dad770cfd532bdb3b5ec62051e860b6576689554a179675051e82d1b3f71754439c3f4c3f7ab4728d6371412990c187e09e86e914911ec4aa94ecab6e032b07b55ad5417b6969c8bfd9e2bdecbef71aa1de390b04fb"
+    },
+    {
+        "credential": {
+            "token": "B?D(~!HDf&9WD`e/-f/-sE,JW.*mOweHdtGmxi@Y",
+            "user_id": "+=6\"6'",
+            "password": "T=<fIZ",
+            "ip": "216.56.164.206",
+            "mac": "35:27:a3:ef:29:04",
+            "product_id": "sJ[o}kZjW<l)-z^{~4%JmDQ\\TTmS}UxiI4",
+            "ctc": "J",
+            "hash": "64266144"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "4d3c734c5edf8b6e4a7219defb52ccc362c2144d523c65e9ae157a42ca9f4aa475bbf3de2d58e1afcd85393bd4e55c4a7cc9c7d5c82dd78ad6c5e14b754648d8350d447a9f57271d2459d39a9a8787ddae5c2e96d5ff046e26ddf474bfbcde0ad1c743a5fcdb15424f1fe2ce17ea7b6f227fbea05d97d38e97f2c7162d2bde0d6d432f80059799a0"
+    },
+    {
+        "credential": {
+            "token": "CDv4YV?j+6v4.nb'>#Gc`PD\\=Citeo*8Xi|SJW~v},]y",
+            "user_id": "'~3E@0d~^O-;~C",
+            "password": "[hy7N'\"[{+McUS",
+            "ip": "251.146.236.165",
+            "mac": "d4:0d:9a:10:fd:41",
+            "product_id": "nfY[.:i9W{e@++-9XyR*jnPOm@",
+            "ctc": "Q",
+            "hash": "56591110"
+        },
+        "method": "SALTED_MD5",
+        "salt": "72262656",
+        "info": "dd124ccc4e3559b611f0ac7c154d701890d40e91fda102f17b67a282fb87ebea12fa8d8fa5df6d581c90bfdc91467898f55e25eba7ee261e2ce906828a0f6d6513ae06dbe4ea682376f7c4a5e3bf905f2e9b29f3fd5d47b6c653b76c104aaca2d20527c0ecfdd505f235897277dccab7099c59883c0f7d19d882357acd7f8290fbc2b87211d8d973c290bf27d0828f5527af9c8c4b25dc7fe09b026bc7a23bd2aab462c5640460db208e5ace5bd2bb64"
+    },
+    {
+        "credential": {
+            "token": "vIvmO\\:ZLr=WXxR|Y~EL97{6+L*S;zbK^3X@vkX2ik2APmwx%E-{yYBesHbV~F%S#P6U(T6/]%r",
+            "user_id": "b*ouO[UuXfG49D`*y",
+            "password": "Xw+|vtTPjK3(\\}LUHYcym",
+            "ip": "97.128.63.5",
+            "mac": "3e:99:8d:9f:d1:43",
+            "product_id": "[>\\dQ",
+            "ctc": "_2z:/].Qo@",
+            "hash": "22839711"
+        },
+        "method": "SALTED_MD5",
+        "salt": "88945014",
+        "info": "a225a0ff97f3cf3fab84897963cdb29fae3368b0d62fa282a3a8fa7ad4e558f89e9eaa39ed915fe206794eb10bd162daa8182726dbfab658345fb8d8bbb362fe634cf34771c62aafbe1958d1a9e19d66ca192fc0ed1de2ee023a30f2bd55214248cf46e463c47c0534364a095f73b64a"
+    },
+    {
+        "credential": {
+            "token": "C8L9q0?Zf8%*%)d\")vQo}zG|s[65Q{L(%*~5M,odZj/E9;t!T!4PUAE_rJ\"dRy<ab,s5K7PM44_g1",
+            "user_id": "b88J!'AMXc85NyDJ-awtM9tGfB9;b'bS",
+            "password": "OrVz`nw'~SK\\",
+            "ip": "249.28.247.30",
+            "mac": "b8:f0:99:c5:0c:b2",
+            "product_id": "`wQ#OgO+y/e8dUf+KpDE@",
+            "ctc": "M9C+",
+            "hash": "97519418"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "64339991be05f075834fa321a43759c6dba922f04236cb6b5ded3cf5586e00e5433a1913c59583f17a2592a93dfa13fed5745acd7787b892c450697eb0f457cd2b952351e545e4bb48e3e34451b4177bdbce1ed64ae9f045c52673ce2eef03604f683c1b107637a83326b43eba9c75c1faf8335dcb4498de06fc3379e22e9e4f"
+    },
+    {
+        "credential": {
+            "token": ">U>cgMS-R3+#aqjRU_?IlU(zpo8u-Yz`d<9~NTX\":u]%JuQmJ<XAorTynYw[/,7wL)?jT**9c/T1/m`+V5UT=V=q!2y8",
+            "user_id": "U-oLuW%gH6iNi@T'bd3?Hj4)t",
+            "password": "c>t.@V&!",
+            "ip": "51.178.75.164",
+            "mac": "0c:c2:50:bd:e1:f4",
+            "product_id": "@hf/xfT&H>omT<VUB`>*Pfz3xUv5",
+            "ctc": "|>",
+            "hash": "86602661"
+        },
+        "method": "SALTED_MD5",
+        "salt": "96483483",
+        "info": "327926c92a5349ce3acbda1ba6b83ac0f20a5d7c96aaae36c36b2b0cbc92eb572a803100de4061b399ee86a54923b1bd53ca001a3a45c5211fd1ad836c4074a3360d947f7b344a569f759d30520cc6b6fa4840c7226dccab024ba3a43bfcf0c545e540a6fc68fd279e3fbd55066425a71f910997e5cbd4307550717e480e0b330b4c60f4acd8ce54029a675ce5f0261007a947f5a0bb305e8c74fc2ed31ede10"
+    },
+    {
+        "credential": {
+            "token": "`qLbpws7[KFG^KD7^xi<{Z9`pBX/iCh;",
+            "user_id": "*ZEh!n#B^;/N-G(r;bce",
+            "password": "-63U8BvkXA5ZGS*",
+            "ip": "188.78.192.110",
+            "mac": "d8:a0:fb:96:10:79",
+            "product_id": "Pb|_h^&<NDvgn9bp|U\\8!O}eASA*KUOU",
+            "ctc": "??!y2&al",
+            "hash": "29111424"
+        },
+        "method": "MD5",
+        "salt": null,
+        "info": "9439434ef7cb316b575b666ec164c4fc56163ea63fa94f73c234a86a82f341696b406dd938c61fc7ef7ea929596eae013e9cc71079ad6b408ec5e01596842c2020900a5898c7d3361a88c7f936a94a06b260048cc2003aa121dca3a2fb6903268603d2b250b94b26775ccbc3254f05dc8cb460a9f4f3a938d4462d01723e940ec8ca5d495bdb4995ae7e63240f66a386c3686900950915c0c14271d6e64e7fdf09fa575dd91f5e1a52490c6f74affc74"
+    },
+    {
+        "credential": {
+            "token": "laBoW9{j&Z5QvjPgoVUd9svHB]:q7Dik6O*f2SHCwmqd:R39*W-M*B@u7@4fQ=#)E2N>Dzug*XD{Mvf5j",
+            "user_id": "31Xg7AYy0CKYpy,S<?5c=Wkl%1?,+PfcZRQ!HT|",
+            "password": "E|@F5w!oCj,2{Z*GtRe",
+            "ip": "168.239.199.232",
+            "mac": "c8:a2:4f:89:c7:cd",
+            "product_id": "Y9!=mD11o;O3xwL@z@Emwv[av@&TYARyuHO",
+            "ctc": "3<Dn7{&KmK",
+            "hash": "86410050"
+        },
+        "method": "PLAIN",
+        "salt": null,
+        "info": "54471a9dc3a08a8dd703d99422ec8e279b1e201cbc9eb77bdae68c5c268c5f23be202c3eba206a51e38b2f17534d2cf03f121a3806aacdafeef3d99b969ccf752c0442d774e75a363c7f77dc1452cfc2495852a350595f34826883cc183a7c117bd596a3e6c8659388789b7b7171e3efc2527df0f88794043866b338647e59f29578b5b8ea9efd9c2820bd6cb95cb382"
+    },
+    {
+        "credential": {
+            "token": "oXmS&+J_}-|:(wV5:qN.7V;Nr2[\\&?L|BDm\\4%haX\\gc7qdXAB&9XLM4C~x",
+            "user_id": "wrms<S3K1/|^4rCQ12;Izvw",
+            "password": "?NUhBiYogaQ92O",
+            "ip": "93.197.108.54",
+            "mac": "f6:15:e3:18:91:c2",
+            "product_id": "WC",
+            "ctc": ",t",
+            "hash": "74223618"
+        },
+        "method": "SALTED_MD5",
+        "salt": "22589796",
+        "info": "6b60bbbed45cd8bb201f78358a4d603c6de6c494168c9380f95d0bdae25cd6ec52dc7e29008def79f0f80cf79f3d554e2bffb520427c90b0547302b509c1b2ec42884bed0f5b4e25a770500415ef29ca702fd915e291eb69ddc95335c8a4189d23aae2626522b7b41e7f7ed27f1525e8a23c3837567bfdfc01c55e147e592c7ccda92bcf2bc963c07a30c748cdb3fc5d00963a03ca9b3277b6792104adcecaf058724a68cecebe11"
+    }
+]

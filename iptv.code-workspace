@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"pylint.cwd": "${workspaceFolder}/src",
+		"terminal.integrated.env.windows": {
+			"PYTHONPATH": "${env:PYTHONPATH};${workspaceFolder}/src"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+*_local.py
+__pycache__/
+/.venv/
+/.pytest_cache/
+.coverage

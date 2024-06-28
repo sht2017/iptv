@@ -1,0 +1,7 @@
+aiohttp>=0.0.0
+fastapi>=0.0.0
+playwright>=0.0.0
+pycryptodome>=0.0.0
+uvicorn[standard]>=0.0.0
+pytest>=0.0.0
+pytest-cov>=0.0.0
