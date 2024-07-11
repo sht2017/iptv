@@ -1,0 +1,62 @@
+# The document template is enabled for this yaml config file. Which can be accessed as examples below:
+# {{browser.headers.Accept}} -> text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+# {{epg.authenticator.auth_method}} -> SALTED_MD5
+browser:
+    args:
+        - --disable-extensions
+        - --disable-gpu
+        - --disable-dev-shm-usage
+        - --disable-add-to-shelf
+        - --disable-background-networking
+        - --disable-background-timer-throttling
+        - --disable-backgrounding-occluded-windows
+        - --disable-breakpad
+        - --disable-checker-imaging
+        - --disable-datasaver-prompt
+        - --disable-default-apps
+        - --disable-desktop-notifications
+        - --disable-domain-reliability
+        - --disable-hang-monitor
+        - --disable-infobars
+        - --disable-logging
+        - --disable-notifications
+        - --disable-popup-blocking
+        - --disable-prompt-on-repost
+        - --disable-renderer-backgrounding
+        - --disable-sync
+        - --force-color-profile=srgb
+        - --force-device-scale-factor=1
+        - --metrics-recording-only
+        - --mute-audio
+        - --no-default-browser-check
+        - --no-first-run
+    headers:
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+        Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+        Accept-Encoding: gzip
+        Accept-Language: en-us
+        User-Agent:
+            Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+    # start_url: Endpoints where the authentication start
+    start_url: "http://127.0.0.1/login?UserID={{epg.credential.user_id}}"
+    # end_url: Endpoints for which configuration files have been distributed, wildcard is allowed to use
+    end_url: "**/everything_finish.html"
+epg:
+    authenticator:
+        # auth_method(PLAIN, MD5, SALTED_MD5): The hashing algorithm your carrier use
+        auth_method: SALTED_MD5
+        # salt[optional], default None: Only need if you are using SALTED_MD5 as hashing algorithm, THIS FIELD MUST BE STRING!
+        salt: "12345678"
+    credential:
+        # user_id: Account
+        user_id: acc_example
+        # password: Password
+        password: pass1234
+        # ip: IP address of your STB, might not affect authentication since the IP is unstable
+        ip: 127.0.0.1
+        # mac: Mac address of your STB, affect authentication
+        mac: 1A:2B:3C:4D:5E:6F
+        # product_id: Unique id of your STB, affect authentication
+        product_id: PRODUCTID1234567890
+        # ctc[optional], default to CTC: Unknown, might affect authentication, I don't know what it means for god sake
+        ctc: SOMECTC
