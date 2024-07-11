@@ -45,6 +45,8 @@
             PYTHONPATH="$(pwd)/src:${PYTHONPATH}" python3 src/custom/main.py
             ```
             检查 `/db.json` ，其中可能包含了你需要的信息
+        ---
+        ![showcase](showcase.gif)
 - ## Windows
     - ### CMD
         - ### 初始化
