@@ -44,23 +44,21 @@ def create_venv(*args, **kwargs) -> None:
 if __name__ != "__main__":
     raise NotImplementedError()
 
-print("setup venv")
+print("\N{ESC}[34m=====setup venv=====\N{ESC}[0m")
 create_venv(
     VENV_PATH,
     with_pip=True,
     upgrade_deps=True,
 )
 binary_path = get_binary_path(VENV_PATH)
-print("install packages")
+print("\N{ESC}[34m=====install packages=====\N{ESC}[0m")
 subprocess.run(
     [binary_path / "pip", "install", "-r", "requirements.txt"], check=True
 )
-print("install browser")
+print("\N{ESC}[34m=====install browser=====\N{ESC}[0m")
+print("\N{ESC}[34minstall browser dependencies\N{ESC}[0m")
+subprocess.run(
+    [binary_path / "playwright", "install-deps", "chromium"], check=True
+)
+print("\N{ESC}[34minstall  browser\N{ESC}[0m")
 subprocess.run([binary_path / "playwright", "install", "chromium"], check=True)
-match os.name:
-    case "nt":
-        os.system(f"mklink {binary_path}/")
-    case "posix":
-        os.system(f"ln -s {binary_path}/")
-    case _:
-        raise NotImplementedError()
