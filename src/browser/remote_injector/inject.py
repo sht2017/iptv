@@ -25,7 +25,10 @@ def _generate_script(injector: Injector) -> str:
     result = ""
     for class_name, class_ in injector:
         if class_name != "_":
-            result += f"class {class_name} {{}}\n"
+            result += (
+                f"class {class_name} {{}}\n"
+                f"globalThis.{class_name} = {class_name};\n"
+            )
         for method_name, method in class_.items():
             if class_name == "_":
                 result += (
@@ -40,6 +43,7 @@ def _generate_script(injector: Injector) -> str:
                     )}}}'
                     ").result};"
                     "\n"
+                    f"globalThis.{method_name} = {method_name};\n"
                 )
             else:
                 result += (

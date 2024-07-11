@@ -1,7 +1,6 @@
 import asyncio
 
 import browser
-import browser.test
 import injection
 from config import CONFIG, context_data
 

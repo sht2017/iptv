@@ -19,7 +19,9 @@ For that, I implemented the package `/src/browser/` to automatically finish the 
 
 ## How to use?
 requirement: git, python>=3.10 (tested on Python 3.12), python3-pip, python3-venv
-> ⚠️ the version of the playwright currently freezes to 1.44.0 because there is a critical bug on the latest version (1.45.0) which leads to failure. (The `/src/browser/remote_injector/template/invokeRemoteFunction.js` would successfully be injected via `/src/browser/remote_injector/inject.py` but won't work)
+> ~~⚠️ the version of the playwright currently freezes to 1.44.0 because there is a critical bug on the latest version (1.45.0) which leads to failure. (The `/src/browser/remote_injector/template/invokeRemoteFunction.js` would successfully be injected via `/src/browser/remote_injector/inject.py` but won't work)~~ 
+<br>
+solved
 - ## linux
     - ### Debian-like (Debian, Ubuntu, etc...)
         - ### Setup

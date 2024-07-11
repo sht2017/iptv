@@ -25,3 +25,4 @@ function invokeRemoteFunction(func, args = null, kwargs = null) {
         throw new Error("Request failed with status " + xhr.status);
     }
 }
+globalThis.invokeRemoteFunction = invokeRemoteFunction;
