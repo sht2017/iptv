@@ -20,8 +20,8 @@
 ## 如何使用？
 依赖：git、python>=3.10（在 python 3.12 上测试）、python3-pip、python3-venv
 > ~~⚠️ 因为最新版本（1.45.0）的一个bug会导致无法运行，目前将playwright的版本冻结在1.44.0。（可以通过 `/src/browser/remote_injector/inject.py` 成功注入远程调用方法 `/src/browser/remote_injector/template/invokeRemoteFunction.js` ，但无法调用）~~
-<br>
-已解决
+>
+> 已解决
 - ## linux
     - ### Debian-like (Debian, Ubuntu, etc...)
         - ### 初始化
