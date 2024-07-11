@@ -4,10 +4,22 @@
 
 # IPTV Simulate 
 
-#### Utility libs for China Telecom's IPTV authentication. __STILL IN PROGRESS__
+#### Utility libs for China Telecom's IPTV authentication.
 
 ---
 
 ### How to use?
+requirement: git, python>=3.10 (tested on python 3.12)
 
-check docstring in src/epg
+```shell
+git clone https://github.com/sht2017/iptv.git
+cd iptv
+./setup.py
+```
+
+
+### Development
+
+for utility modules check docstring in src/epg
+
+
