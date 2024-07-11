@@ -41,6 +41,7 @@ requirement: git, python>=3.10 (tested on Python 3.12), python3-pip, python3-ven
             > ℹ️ You can create it as in `/config.example.yaml`
 
             ```shell
+            source .venv/bin/activate
             PYTHONPATH="$(pwd)/src:${PYTHONPATH}" python3 src/custom/main.py
             ```
             Go check `/db.json` and enjoy
@@ -64,6 +65,7 @@ requirement: git, python>=3.10 (tested on Python 3.12), python3-pip, python3-ven
             > ℹ️ You can create it as in `/config.example.yaml`
 
             ```cmd
+            .venv\Scripts\activate
             set PYTHONPATH=%cd%\src;%PYTHONPATH%
             python src/custom/main.py
             ```

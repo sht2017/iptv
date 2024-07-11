@@ -41,6 +41,7 @@
             > ℹ️ 可以以 `/config.example.yaml` 的示例为基础创建
 
             ```shell
+            source .venv/bin/activate
             PYTHONPATH="$(pwd)/src:${PYTHONPATH}" python3 src/custom/main.py
             ```
             检查 `/db.json` ，其中可能包含了你需要的信息
@@ -64,6 +65,7 @@
             > ℹ️ 可以以 `/config.example.yaml` 的示例为基础创建
 
             ```cmd
+            .venv\Scripts\activate
             set PYTHONPATH=%cd%\src;%PYTHONPATH%
             python src/custom/main.py
             ```
