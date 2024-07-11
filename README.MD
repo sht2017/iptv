@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/github/sht2017/iptv/graph/badge.svg?token=VCN5CCEC5F)](https://codecov.io/github/sht2017/iptv)
 [![GitHub License](https://img.shields.io/github/license/sht2017/iptv)](https://github.com/sht2017/iptv/blob/main/LICENSE)
 
-English | [中文](README_chs.md)
+English | [中文](README_chs.MD)
 
 # IPTV Simulate 
 
